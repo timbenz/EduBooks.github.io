@@ -14,11 +14,10 @@
 
 	<h1 class="cursive darkblue">1st Grade Books</h1>
 
-<div class="search">
-	<form action="http://www.amazon.com/search.php">
-		<input type="text" name="search" placeholder="Enter Name"/>
-		<input type="submit" value="search here"/>
-	</form>
+	<div id=”cse” style=”width:100%;”>Loading</div> 
+	<script src=”http://www.google.com/jsapi” type=”text/javascript”></script> 
+	<script type=”text/javascript”>google.load(‘search’, ‘1’); google.setOnLoadCallback(function(){var cse = new google.search. CustomSearchControl();cse.draw(‘cse’);}, true);
+	</script>
 
 
 <ul id="myUL">
@@ -32,36 +31,6 @@
   <li><a href="#">Book 6</a></li>
   <li><a href="#">Book 7</a></li>
 </ul>
-
-
-
-
-<table>
-    <thead>
-      <tr>
-        <th>Book Type</th>
-        <th>Name of Book</th>
-        <th>Buy Here</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Math</td>
-        <td>Math Rocks!</td>
-        <td>Buy</td>
-      </tr>
-      <tr>
-        <td>Social Studies</td>
-        <td>The History of America</td>
-        <td>Buy</td>
-      </tr>
-      <tr>
-        <td>English</td>
-        <td>English for First Graders</td>
-        <td>Buy</td>
-      </tr>
-  </table>
-
 
 </body>
 </html>
