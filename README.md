@@ -1,2 +1,2 @@
-# EduWay
-EduWay website
+# EduBooks
+EduBooks website
