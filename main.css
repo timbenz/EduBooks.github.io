@@ -1,5 +1,7 @@
 .margin {
-margin: 100px;
+  color:red;
+width: 600px; 
+  padding: 5px;
 }
 
 .green{
