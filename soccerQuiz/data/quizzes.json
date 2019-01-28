@@ -5,6 +5,13 @@
         "title":      "Premier League Soccer Players",
         "picture":	"images/pulisic.jpeg",
         "description": "Guess the answer with the hint and picture(s) provided."
-      }
+      },
+    {
+      "briefName": "mls",
+      "title": "MLS Soccer Players",
+      "picture": "images/mls.png",
+      "description": "Guess the answer with the hint and picture(s) provided."
+    }
+    
    ]
 }
