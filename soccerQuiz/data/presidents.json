@@ -18,11 +18,11 @@
       "question": "Position: Winger / Nation: Egypt",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/George_W_Bush.jpg"},
-        { "id": "b", "pictureAnswer": "images/James_Polk.jpg"},
-        { "id": "c", "pictureAnswer": "images/Richard_Nixon.jpg"},
-        { "id": "d", "pictureAnswer": "images/Andrew_Johnson.jpg"},
-        { "id": "e", "pictureAnswer": "images/Andrew_Jackson.jpg"}
+        { "id": "a", "pictureAnswer": "images/mane.png"},
+        { "id": "b", "pictureAnswer": "images/xhaka.png"},
+        { "id": "c", "pictureAnswer": "images/ramsey.png"},
+        { "id": "d", "pictureAnswer": "images/salah.png"},
+        { "id": "e", "pictureAnswer": "images/brooks.png"}
       ],
       "correctAnswer": "d"
     },
