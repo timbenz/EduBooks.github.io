@@ -9,7 +9,7 @@
     {
       "id":      0,
       "question": "Position: Midfielder / Nation: Spain",
-      "pictureQuestion":  "images/James_Polk.jpg",
+      "pictureQuestion":  "images/kane.png",
       "type":     "pictureQuestionTrueFalse",
       "correctAnswer": "False"
     },
