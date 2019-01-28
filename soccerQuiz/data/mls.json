@@ -1,1 +1,115 @@
+{
+  "briefName": 	"mls",
+  "title":      "MLS Soccer Players",
+  "config":{
+    "randomizeQuestionSequence": false,
+    "autoSubmit": false
+  },
+  "questions": [
+    {
+      "id":      0,
+      "question": "Position: Midfielder / Nation: Spain",
+      "pictureQuestion":  "images/kane.png",
+      "type":     "pictureQuestionTrueFalse",
+      "correctAnswer": "False"
+    },
+    {
+      "id":      1,
+      "question": "Position: Winger / Nation: Egypt",
+      "type":     "pictureAnswer",
+      "options": [
+        { "id": "a", "pictureAnswer": "images/mane.png"},
+        { "id": "b", "pictureAnswer": "images/xhaka.png"},
+        { "id": "c", "pictureAnswer": "images/ramsey.png"},
+        { "id": "d", "pictureAnswer": "images/salah.png"},
+        { "id": "e", "pictureAnswer": "images/brooks.png"}
+      ],
+      "correctAnswer": "d"
+    },
+   	{
+      "id":      2,
+      "question": "Position: Defender / Nation: Germany",
+      "pictureQuestion":  "images/rudiger.png",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Virgil van Dijk"},
+        { "id": "b", "answer": "Antonio Rudiger"},
+        { "id": "c", "answer": "David Luiz"},
+        { "id": "d", "answer": "Wily Boly"}
+      ],
+      "correctAnswer": "Antonio Rudiger"
+    },
+	{
+      "id":      3,
+      "question": "Position: Winger / Nation: Belgium",
+      "pictureQuestion":  "images/hazard.png",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Eden Hazard"
+      ]
+    },
+	{
+      "id":      4,
+      "question": "Position: Goalkeeper / Nation: Spain --> Kepa Arrizabalaga",
+      "type":     "textTrueFalse",
+      "correctAnswer":  "True"
+    },
+	  
+    {
+      "id":      5,
+      "question": "Position: Winger / Nation: England",
+      "pictureQuestion":  "images/sterling.png",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Raheem Sterling"
+      ]
+    },
+    {
+      "id":      6,
+      "question": "Position: Defender / Nation: England --> Steve Cook",
+      "type":     "textTrueFalse",
+      "correctAnswer":  "True"
+    },
+    {
+      "id":      7,
+      "question": "Position: Midfielder / Nation: Portugal",
+      "type":     "pictureAnswer",
+      "options": [
+        { "id": "a", "pictureAnswer": "images/willian.png"},
+        { "id": "b", "pictureAnswer": "images/moutinho.png"},
+        { "id": "c", "pictureAnswer": "images/pogba.png"},
+        { "id": "d", "pictureAnswer": "images/eriksen.png" },
+        { "id": "e", "pictureAnswer": "images/ndidi.png"}
+	  ],
+      "correctAnswer": "b"
+    },
+	{
+      "id":      8,
+      "question": "Position: Striker / Nation: Serbia",
+      "type":     "textMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Richarlison"},
+        { "id": "b", "answer": "Callum Wilson" },
+        { "id": "c", "answer": "John Adams"},
+        { "id": "d", "answer": "Sergio Aguero"},
+        { "id": "e", "answer": "Aleksandar Mitrovic"},
+        { "id": "f", "answer": "Glenn Murray"}
+      ],
+      "correctAnswer": "Aleksandar Mitrovic"
+    },
+    {
+      "id":      9,
+      "question": "Position: Defender / Nation: ?",
+      "pictureQuestion":  "images/digne.png",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "England"},
+        { "id": "b", "answer": "France"},
+        { "id": "c", "answer": "Spain"},
+        { "id": "d", "answer": "USA"}
+      ],
+      "correctAnswer": "France"
+    }
+  ]
+}
 
