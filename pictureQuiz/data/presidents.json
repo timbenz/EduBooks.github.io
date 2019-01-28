@@ -9,7 +9,7 @@
     {
       "id":      0,
       "question": "Position: Midfielder / Nation: Spain",
-      "pictureQuestion":  "images/Kane.png",
+      "pictureQuestion":  "images/Sample_Home_Screen.jpg",
       "type":     "pictureQuestionTrueFalse",
       "correctAnswer": "False"
     },
