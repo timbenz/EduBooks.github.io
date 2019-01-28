@@ -5,6 +5,12 @@
         "title":      "Premier League Soccer Players",
         "picture":	"images/pulisic.jpeg",
         "description": "Guess the answer with the hint and picture(s) provided."
-      }
+      },
+     {
+        "briefName": 	"science",
+        "title":      "Basic Science",
+        "picture":	"images/Atom.jpg",
+        "description": "General knowledge about science"
+      },
    ]
 }
