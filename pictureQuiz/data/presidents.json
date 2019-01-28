@@ -1,67 +1,60 @@
 {
-  "briefName": 	"presidents",
-  "title":      "US Presidents",
-  "config": {
+  "briefName": 	"players",
+  "title":      "Premier League Soccer Players",
+  "config":{
     "randomizeQuestionSequence": false,
-    "autoSubmit": false,
-    "percentGreatJob": 60,
-    "rightSide": "giphy"
+    "autoSubmit": false
   },
   "questions": [
     {
       "id":      0,
-      "question": "This president pictured was the fourth president",
+      "question": "Position: Midfielder / Nation: Spain",
       "pictureQuestion":  "images/Thomas_Jefferson.jpg",
       "type":     "pictureQuestionTrueFalse",
       "correctAnswer": "False"
     },
     {
       "id":      1,
-      "question": "Select the year Franklin D. Roosevelt first took office as president",
-      "type":     "textMultipleChoice",
-      "options": [
-        { "id": "a", "answer": "1932"},
-        { "id": "b", "answer": "1929"},
-        { "id": "c", "answer": "1935"},
-        { "id": "d", "answer": "1933"}
-      ],
-      "correctAnswer": "1933"
-    },
-    {
-      "id":      2,
-      "question": "Click on the picture of the President who was NOT assassinated while in office",
+      "question": "Position: Midfielder / Nation: Egypt",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/William_McKinley.jpg"},
-        { "id": "b", "pictureAnswer": "images/Abraham_Lincoln.jpg"},
-        { "id": "c", "pictureAnswer": "images/Grover_Cleveland.jpg" },
-        { "id": "d", "pictureAnswer": "images/John_F_Kennedy.jpg"}
+        { "id": "a", "pictureAnswer": "images/George_W_Bush.jpg"},
+        { "id": "b", "pictureAnswer": "images/James_Polk.jpg"},
+        { "id": "c", "pictureAnswer": "images/Richard_Nixon.jpg"},
+        { "id": "d", "pictureAnswer": "images/Andrew_Johnson.jpg"},
+        { "id": "e", "pictureAnswer": "images/Andrew_Jackson.jpg"}
       ],
-      "correctAnswer": "c"
+      "correctAnswer": "d"
     },
-    {
-      "id":      3,
-      "question": "Give the first and last name of the president who said 'Speak softly and carry a big stick'",
-      "type":     "textShortAnswer",
-      "correctAnswerArray": [
-        "Ted Roosevelt",
-        "Teddy Roosevelt",
-        "Theodore Roosevelt"
-      ]
-    },
-    {
-      "id":      4,
-      "question": "Before he was a U.S. president, this man was president of what university?",
+   	{
+      "id":      2,
+      "question": "Position: Defender / Nation: Germany",
       "pictureQuestion":  "images/Woodrow_Wilson.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Harvard"},
-        { "id": "b", "answer": "Princeton"},
-        { "id": "c", "answer": "Yale"},
-        { "id": "d", "answer": "Columbia"}
+        { "id": "a", "answer": "Virgil van Dijk"},
+        { "id": "b", "answer": "Antonio Rudiger"},
+        { "id": "c", "answer": "David Luiz"},
+        { "id": "d", "answer": "Wily Boly"}
       ],
-      "correctAnswer": "Princeton"
+      "correctAnswer": "Antonio Rudiger"
     },
+	{
+      "id":      3,
+      "question": "Position: Winger / Nation: Belgium",
+      "pictureQuestion":  "images/Franklin_Pierce.jpg",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Eden Hazard"
+      ]
+    },
+	{
+      "id":      4,
+      "question": "Position: Goalkeeper / Nation: Spain --> Kepa Arrizabalaga",
+      "type":     "textTrueFalse",
+      "correctAnswer":  "True"
+    },
+	  
     {
       "id":      5,
       "question": "Give the first and last name of this president",
