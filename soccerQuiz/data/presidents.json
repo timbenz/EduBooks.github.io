@@ -29,7 +29,7 @@
    	{
       "id":      2,
       "question": "Position: Defender / Nation: Germany",
-      "pictureQuestion":  "images/Woodrow_Wilson.jpg",
+      "pictureQuestion":  "images/rudiger.png",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
         { "id": "a", "answer": "Virgil van Dijk"},
@@ -42,7 +42,7 @@
 	{
       "id":      3,
       "question": "Position: Winger / Nation: Belgium",
-      "pictureQuestion":  "images/Franklin_Pierce.jpg",
+      "pictureQuestion":  "images/hazard.png",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
         "Eden Hazard"
@@ -58,7 +58,7 @@
     {
       "id":      5,
       "question": "Position: Winger / Nation: England",
-      "pictureQuestion":  "images/Franklin_Pierce.jpg",
+      "pictureQuestion":  "images/sterling.png",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
         "Raheem Sterling"
@@ -76,12 +76,12 @@
       "type":     "pictureAnswer",
       "options": [
         { "id": "a", "pictureAnswer": "images/George_W_Bush.jpg"},
-        { "id": "b", "pictureAnswer": "images/James_Polk.jpg"},
+        { "id": "b", "pictureAnswer": "images/moutinho.png"},
         { "id": "c", "pictureAnswer": "images/Richard_Nixon.jpg"},
         { "id": "d", "pictureAnswer": "images/Andrew_Johnson.jpg" },
         { "id": "e", "pictureAnswer": "images/Andrew_Jackson.jpg"}
 	  ],
-      "correctAnswer": "d"
+      "correctAnswer": "b"
     },
 	{
       "id":      8,
