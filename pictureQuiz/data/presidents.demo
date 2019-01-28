@@ -1,6 +1,6 @@
 {
-  "briefName": 	"presidents",
-  "title":      "American Presidents",
+  "briefName": 	"players",
+  "title":      "Premier League Soccer Players",
   "config":{
     "randomizeQuestionSequence": false,
     "autoSubmit": false
@@ -8,49 +8,49 @@
   "questions": [
     {
       "id":      0,
-      "question": "This president pictured was the fourth president",
+      "question": "Position: Midfielder / Nation: Spain",
       "pictureQuestion":  "images/Thomas_Jefferson.jpg",
       "type":     "pictureQuestionTrueFalse",
       "correctAnswer": "False"
     },
     {
       "id":      1,
-      "question": "Click on the picture of the President who was impeached",
+      "question": "Position: Midfielder / Nation: Egypt",
       "type":     "pictureAnswer",
       "options": [
         { "id": "a", "pictureAnswer": "images/George_W_Bush.jpg"},
         { "id": "b", "pictureAnswer": "images/James_Polk.jpg"},
         { "id": "c", "pictureAnswer": "images/Richard_Nixon.jpg"},
-        { "id": "d", "pictureAnswer": "images/Andrew_Johnson.jpg" },
+        { "id": "d", "pictureAnswer": "images/Andrew_Johnson.jpg"},
         { "id": "e", "pictureAnswer": "images/Andrew_Jackson.jpg"}
       ],
       "correctAnswer": "d"
     },
    	{
       "id":      2,
-      "question": "Before he was a U.S. president, this man was president of what university?",
+      "question": "Position: Defender / Nation: Germany",
       "pictureQuestion":  "images/Woodrow_Wilson.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Harvard"},
-        { "id": "b", "answer": "Princeton"},
-        { "id": "c", "answer": "Yale"},
-        { "id": "d", "answer": "Columbia"}
+        { "id": "a", "answer": "Virgil van Dijk"},
+        { "id": "b", "answer": "Antonio Rudiger"},
+        { "id": "c", "answer": "David Luiz"},
+        { "id": "d", "answer": "Wily Boly"}
       ],
-      "correctAnswer": "Princeton"
+      "correctAnswer": "Antonio Rudiger"
     },
 	{
       "id":      3,
-      "question": "Give the first and last name of this president",
+      "question": "Position: Winger / Nation: Belgium",
       "pictureQuestion":  "images/Franklin_Pierce.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Franklin Pierce"
+        "Eden Hazard"
       ]
     },
 	{
       "id":      4,
-      "question": "The Cuban Missle Crisis occurred while Kennedy was president",
+      "question": "Position: Goalkeeper / Nation: Spain --> Kepa Arrizabalaga",
       "type":     "textTrueFalse",
       "correctAnswer":  "True"
     }
