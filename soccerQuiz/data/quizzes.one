@@ -1,8 +1,8 @@
 {
   "quizzes" : [
       {
-        "briefName": 	"presidents",
-        "title":      "American Presidents",
+        "briefName": 	"soccer",
+        "title":      "Soccer players",
         "picture":	"images/George_Washington.jpg",
         "description": "General knowledge about American presidents"
       }
