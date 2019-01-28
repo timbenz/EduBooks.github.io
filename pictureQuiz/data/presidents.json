@@ -9,7 +9,7 @@
     {
       "id":      0,
       "question": "Position: Midfielder / Nation: Spain",
-      "pictureQuestion":  "images/bird.jpg",
+      "pictureQuestion":  "images/George_Washington.jpg",
       "type":     "pictureQuestionTrueFalse",
       "correctAnswer": "False"
     },
