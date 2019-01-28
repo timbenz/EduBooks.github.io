@@ -9,20 +9,20 @@
     {
       "id":      0,
       "question": "Position: Winger / Nation: Mexico",
-      "pictureQuestion":  "images/kane.png",
+      "pictureQuestion":  "images/vela.jpg",
       "type":     "pictureQuestionTrueFalse",
       "correctAnswer": "True"
     },
     {
       "id":      1,
-      "question": "Position: Midfield / Nation: Brazil",
+      "question": "Position: Midfield / Nation: Paraguay",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/mane.png"},
-        { "id": "b", "pictureAnswer": "images/xhaka.png"},
-        { "id": "c", "pictureAnswer": "images/ramsey.png"},
-        { "id": "d", "pictureAnswer": "images/salah.png"},
-        { "id": "e", "pictureAnswer": "images/brooks.png"}
+        { "id": "a", "pictureAnswer": "images/piatti.png"},
+        { "id": "b", "pictureAnswer": "images/almiron.jpg"},
+        { "id": "c", "pictureAnswer": "images/valeri.jpeg"},
+        { "id": "d", "pictureAnswer": "images/bradley.png"},
+        { "id": "e", "pictureAnswer": "images/higuain.jpg"}
       ],
       "correctAnswer": "b"
     },
@@ -72,7 +72,7 @@
     },
     {
       "id":      7,
-      "question": "Position: Midfielder / Nation: France",
+      "question": "Position: Midfielder / Nation: Mexico",
       "type":     "pictureAnswer",
       "options": [
         { "id": "a", "pictureAnswer": "images/willian.png"},
@@ -81,34 +81,34 @@
         { "id": "d", "pictureAnswer": "images/eriksen.png" },
         { "id": "e", "pictureAnswer": "images/ndidi.png"}
 	  ],
-      "correctAnswer": "c"
+      "correctAnswer": "a"
     },
 	{
       "id":      8,
-      "question": "Position: Striker / Nation: Serbia",
+      "question": "Position: Striker / Nation: England",
       "type":     "textMultipleChoice",
       "options": [
         { "id": "a", "answer": "Richarlison"},
         { "id": "b", "answer": "Callum Wilson" },
-        { "id": "c", "answer": "John Adams"},
+        { "id": "c", "answer": "Bradley Wright-Phillips"},
         { "id": "d", "answer": "Sergio Aguero"},
         { "id": "e", "answer": "Aleksandar Mitrovic"},
         { "id": "f", "answer": "Glenn Murray"}
       ],
-      "correctAnswer": "Aleksandar Mitrovic"
+      "correctAnswer": "Bradley Wright-Phillips"
     },
     {
       "id":      9,
-      "question": "Position: Defender / Nation: ?",
+      "question": "Position: Midfield / Nation: ?",
       "pictureQuestion":  "images/digne.png",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "England"},
+        { "id": "a", "answer": "Germany"},
         { "id": "b", "answer": "France"},
         { "id": "c", "answer": "Spain"},
         { "id": "d", "answer": "USA"}
       ],
-      "correctAnswer": "France"
+      "correctAnswer": "Germany"
     }
   ]
 }
