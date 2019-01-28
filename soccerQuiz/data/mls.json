@@ -8,14 +8,14 @@
   "questions": [
     {
       "id":      0,
-      "question": "Position: Midfielder / Nation: Spain",
+      "question": "Position: Winger / Nation: Mexico",
       "pictureQuestion":  "images/kane.png",
       "type":     "pictureQuestionTrueFalse",
-      "correctAnswer": "False"
+      "correctAnswer": "True"
     },
     {
       "id":      1,
-      "question": "Position: Winger / Nation: Egypt",
+      "question": "Position: Midfield / Nation: Brazil",
       "type":     "pictureAnswer",
       "options": [
         { "id": "a", "pictureAnswer": "images/mane.png"},
@@ -24,35 +24,35 @@
         { "id": "d", "pictureAnswer": "images/salah.png"},
         { "id": "e", "pictureAnswer": "images/brooks.png"}
       ],
-      "correctAnswer": "d"
+      "correctAnswer": "b"
     },
    	{
       "id":      2,
-      "question": "Position: Defender / Nation: Germany",
+      "question": "Position: Defender / Nation: Belgium",
       "pictureQuestion":  "images/rudiger.png",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
         { "id": "a", "answer": "Virgil van Dijk"},
-        { "id": "b", "answer": "Antonio Rudiger"},
+        { "id": "b", "answer": "Laurent Ciman"},
         { "id": "c", "answer": "David Luiz"},
         { "id": "d", "answer": "Wily Boly"}
       ],
-      "correctAnswer": "Antonio Rudiger"
+      "correctAnswer": "Laurent Ciman"
     },
 	{
       "id":      3,
-      "question": "Position: Winger / Nation: Belgium",
+      "question": "Position: Striker / Nation: Italy",
       "pictureQuestion":  "images/hazard.png",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Eden Hazard"
+        "Sebastian Giovinco"
       ]
     },
 	{
       "id":      4,
-      "question": "Position: Goalkeeper / Nation: Spain --> Kepa Arrizabalaga",
+      "question": "Position: Striker / Nation: Spain --> Zac Steffen",
       "type":     "textTrueFalse",
-      "correctAnswer":  "True"
+      "correctAnswer":  "False"
     },
 	  
     {
@@ -72,7 +72,7 @@
     },
     {
       "id":      7,
-      "question": "Position: Midfielder / Nation: Portugal",
+      "question": "Position: Midfielder / Nation: France",
       "type":     "pictureAnswer",
       "options": [
         { "id": "a", "pictureAnswer": "images/willian.png"},
@@ -81,7 +81,7 @@
         { "id": "d", "pictureAnswer": "images/eriksen.png" },
         { "id": "e", "pictureAnswer": "images/ndidi.png"}
 	  ],
-      "correctAnswer": "b"
+      "correctAnswer": "c"
     },
 	{
       "id":      8,
