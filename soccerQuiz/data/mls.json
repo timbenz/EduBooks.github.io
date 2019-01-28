@@ -9,7 +9,7 @@
     {
       "id":      0,
       "question": "Position: Winger / Nation: Mexico",
-      "pictureQuestion":  "images/vela.jpeg",
+      "pictureQuestion":  "images/vela.jpg",
       "type":     "pictureQuestionTrueFalse",
       "correctAnswer": "True"
     },
@@ -18,10 +18,10 @@
       "question": "Position: Midfield / Nation: Paraguay",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/piatti.jpeg"},
+        { "id": "a", "pictureAnswer": "images/piatti.png"},
         { "id": "b", "pictureAnswer": "images/almiron.jpeg"},
-        { "id": "c", "pictureAnswer": "images/valeri.jpeg"},
-        { "id": "d", "pictureAnswer": "images/bradley.jpeg"},
+        { "id": "c", "pictureAnswer": "images/valeri.jpg"},
+        { "id": "d", "pictureAnswer": "images/bradley.jpg"},
         { "id": "e", "pictureAnswer": "images/higuain.jpeg"}
       ],
       "correctAnswer": "b"
