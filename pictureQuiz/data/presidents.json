@@ -15,7 +15,7 @@
     },
     {
       "id":      1,
-      "question": "Position: Midfielder / Nation: Egypt",
+      "question": "Position: Winger / Nation: Egypt",
       "type":     "pictureAnswer",
       "options": [
         { "id": "a", "pictureAnswer": "images/George_W_Bush.jpg"},
