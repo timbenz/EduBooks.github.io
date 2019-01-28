@@ -75,11 +75,11 @@
       "question": "Position: Midfielder / Nation: Portugal",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/George_W_Bush.jpg"},
+        { "id": "a", "pictureAnswer": "images/willian.png"},
         { "id": "b", "pictureAnswer": "images/moutinho.png"},
-        { "id": "c", "pictureAnswer": "images/Richard_Nixon.jpg"},
-        { "id": "d", "pictureAnswer": "images/Andrew_Johnson.jpg" },
-        { "id": "e", "pictureAnswer": "images/Andrew_Jackson.jpg"}
+        { "id": "c", "pictureAnswer": "images/pogba.png"},
+        { "id": "d", "pictureAnswer": "images/eriksen.png" },
+        { "id": "e", "pictureAnswer": "images/ndidi.png"}
 	  ],
       "correctAnswer": "b"
     },
@@ -100,7 +100,7 @@
     {
       "id":      9,
       "question": "Position: Defender / Nation: ?",
-      "pictureQuestion":  "images/James_Polk.jpg",
+      "pictureQuestion":  "images/digne.png",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
         { "id": "a", "answer": "England"},
