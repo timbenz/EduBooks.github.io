@@ -1,7 +1,7 @@
 {
   "quizzes" : [
       {
-        "briefName": 	"Soccer Players",
+        "briefName": 	"Soccer_Players",
         "title":      "Premier League Soccer Players General Knowledge",
         "picture":	"images/Atom.jpg",
         "description": "Guess the answer with the hint and picture(s) provided"
