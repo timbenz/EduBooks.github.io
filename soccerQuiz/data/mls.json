@@ -57,18 +57,18 @@
 	  
     {
       "id":      5,
-      "question": "Position: Winger / Nation: England",
+      "question": "Position: Midfield / Nation: Uruguay",
       "pictureQuestion":  "images/sterling.png",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Raheem Sterling"
+        "Nicolas Lodeiro"
       ]
     },
     {
       "id":      6,
-      "question": "Position: Defender / Nation: England --> Steve Cook",
+      "question": "Position: Midfield / Nation: Canada --> Jozy Altidore",
       "type":     "textTrueFalse",
-      "correctAnswer":  "True"
+      "correctAnswer":  "False"
     },
     {
       "id":      7,
