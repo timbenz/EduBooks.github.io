@@ -9,7 +9,7 @@
     {
       "id":      0,
       "question": "Position: Midfielder / Nation: Spain",
-      "pictureQuestion":  "images/lucasDigne.png",
+      "pictureQuestion":  "images/Atom.jpg",
       "type":     "pictureQuestionTrueFalse",
       "correctAnswer": "False"
     },
