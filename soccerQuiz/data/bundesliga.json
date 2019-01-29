@@ -75,11 +75,11 @@
       "question": "Position: Goalkeeper / Nation: Finland",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/casteels.jpg"}, casteels
-        { "id": "b", "pictureAnswer": "images/sommer.png"}, sommer
-        { "id": "c", "pictureAnswer": "images/jarstein.png"}, jarstein
-        { "id": "d", "pictureAnswer": "images/hradecky.jpg" }, hradecky
-        { "id": "e", "pictureAnswer": "images/"} baumann
+        { "id": "a", "pictureAnswer": "images/casteels.jpg"}, 
+        { "id": "b", "pictureAnswer": "images/sommer.png"}, 
+        { "id": "c", "pictureAnswer": "images/jarstein.png"}, 
+        { "id": "d", "pictureAnswer": "images/hradecky.jpg" }, 
+        { "id": "e", "pictureAnswer": "images/baumann.jpg"} 
 	  ],
       "correctAnswer": "d"
     },
@@ -99,7 +99,7 @@
     {
       "id":      9,
       "question": "Position: Midfield / Nation: ?",
-      "pictureQuestion":  "images/romain.jpg", Javi Martínez
+      "pictureQuestion":  "images/martinez.jpg", 
       "type":     "pictureQuestionMultipleChoice",
       "options": [
         { "id": "a", "answer": "Germany"},
