@@ -9,7 +9,7 @@
     {
       "id":      0,
       "question": "Position: Midfield / Nation: Germany",
-      "pictureQuestion":  "images/kroos.jpg", 
+      "pictureQuestion":  "images/kroos.jpg",
       "type":     "pictureQuestionTrueFalse",
       "correctAnswer": "True"
     },
@@ -18,17 +18,17 @@
       "question": "Position: Midfield / Nation: Brazil",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/koke.jpg"}, 
-        { "id": "b", "pictureAnswer": "images/rakitic.jpg"}, 
-        { "id": "c", "pictureAnswer": "images/casemiro.png"}, 
-        { "id": "d", "pictureAnswer": "images/saul.jpg"} 
+        { "id": "a", "pictureAnswer": "images/koke.jpg"},
+        { "id": "b", "pictureAnswer": "images/rakitic.jpg"},
+        { "id": "c", "pictureAnswer": "images/casemiro.png"},
+        { "id": "d", "pictureAnswer": "images/saul.jpg"}
       ],
-      "correctAnswer": "c"
+      "correctAnswer": "b"
     },
    	{
       "id":      2,
       "question": "Position: Defender / Nation: Spain",
-      "pictureQuestion":  "images/tah.jpg",
+      "pictureQuestion":  "images/ciman.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
         { "id": "a", "answer": "Samuel Umtiti"},
@@ -41,7 +41,7 @@
 	{
       "id":      3,
       "question": "Position: Goalkeeper / Nation: Slovenia",
-      "pictureQuestion":  "images/robben.jpg",
+      "pictureQuestion":  "images/oblak.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
         "Jan Oblak"
@@ -49,15 +49,15 @@
     },
 	{
       "id":      4,
-      "question": "Position: Winger / Nation: France --> Ousmane Dembelé",
+      "question": "Position: Winger / Nation: France --> Ousmane Dembele",
       "type":     "textTrueFalse",
       "correctAnswer":  "True"
     },
-
+	  
     {
       "id":      5,
       "question": "Position: Winger / Nation: France",
-      "pictureQuestion":  "images/kruse.png",
+      "pictureQuestion":  "images/lemar.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
         "Thomas Lemar"
@@ -65,39 +65,39 @@
     },
     {
       "id":      6,
-      "question": "Position: Midfielder / Nation: Egypt --> Michy Batshuayi",
+      "question": "Position: Midfield / Nation: Canada --> Michy Batshuayi",
       "type":     "textTrueFalse",
       "correctAnswer":  "False"
     },
     {
       "id":      7,
-      "question": "Position: Midfield / Nation: Brazil",
+      "question": "Position: Midfielder / Nation: Brazil",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/koen.jpg"}, //Asensio
-        { "id": "b", "pictureAnswer": "images/sommer.png"}, //Isco
-        { "id": "c", "pictureAnswer": "images/jarstein.png"}, //Koke
-        { "id": "d", "pictureAnswer": "images/hradecky.jpg" }, //Coutinho
-        { "id": "e", "pictureAnswer": "images/baumann.jpg"} //Bale
+        { "id": "a", "pictureAnswer": "images/moralez.jpg"},
+        { "id": "b", "pictureAnswer": "images/santos.jpeg"},
+        { "id": "c", "pictureAnswer": "images/alonso.jpg"},
+        { "id": "d", "pictureAnswer": "images/haris.jpg" },
+        { "id": "e", "pictureAnswer": "images/vazquez.png"}
 	  ],
-      "correctAnswer": "d"
+      "correctAnswer": "b"
     },
 	{
       "id":      8,
       "question": "Position: Striker / Nation: France",
       "type":     "textMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Álvaro Morata"},
+        { "id": "a", "answer": "Alvaro Morata"},
         { "id": "b", "answer": "Wissam Ben Yedder"},
         { "id": "c", "answer": "Diego Costa"},
-        { "id": "d", "answer": "Maximilian Gómez"}
+        { "id": "d", "answer": "Maximillian Gomez"}
       ],
       "correctAnswer": "Wissam Ben Yedder"
     },
     {
       "id":      9,
-      "question": "Position: Stiker / Nation: ?",
-      "pictureQuestion":  "images/martinez.jpg", //andre silva
+      "question": "Position: Midfield / Nation: ?",
+      "pictureQuestion":  "images/romain.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
         { "id": "a", "answer": "Germany"},
@@ -110,3 +110,4 @@
   ]
 }
 
+    
