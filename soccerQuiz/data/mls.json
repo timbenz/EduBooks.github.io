@@ -78,8 +78,8 @@
         { "id": "a", "pictureAnswer": "images/dos_santos.png"},
         { "id": "b", "pictureAnswer": "images/moralez.jpg"},
         { "id": "c", "pictureAnswer": "images/alonso.jpg"},
-        { "id": "d", "pictureAnswer": "images/eriksen.png" },
-        { "id": "e", "pictureAnswer": "images/ndidi.png"}
+        { "id": "d", "pictureAnswer": "images/haris.jpg" },
+        { "id": "e", "pictureAnswer": "images/vazquez.png"}
 	  ],
       "correctAnswer": "a"
     },
@@ -100,7 +100,7 @@
     {
       "id":      9,
       "question": "Position: Midfield / Nation: ?",
-      "pictureQuestion":  "images/digne.png",
+      "pictureQuestion":  "images/alessandrini.jpeg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
         { "id": "a", "answer": "Germany"},
@@ -108,7 +108,7 @@
         { "id": "c", "answer": "Spain"},
         { "id": "d", "answer": "USA"}
       ],
-      "correctAnswer": "Germany"
+      "correctAnswer": "France"
     }
   ]
 }
