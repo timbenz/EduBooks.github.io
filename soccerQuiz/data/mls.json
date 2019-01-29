@@ -29,20 +29,20 @@
    	{
       "id":      2,
       "question": "Position: Defender / Nation: Belgium",
-      "pictureQuestion":  "images/rudiger.png",
+      "pictureQuestion":  "images/ciman.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Virgil van Dijk"},
+        { "id": "a", "answer": "Ike Opara"},
         { "id": "b", "answer": "Laurent Ciman"},
-        { "id": "c", "answer": "David Luiz"},
-        { "id": "d", "answer": "Wily Boly"}
+        { "id": "c", "answer": "Leandro Gonzalez Pirez"},
+        { "id": "d", "answer": "Guram Kashia"}
       ],
       "correctAnswer": "Laurent Ciman"
     },
 	{
       "id":      3,
       "question": "Position: Striker / Nation: Italy",
-      "pictureQuestion":  "images/hazard.png",
+      "pictureQuestion":  "images/giovinco.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
         "Sebastian Giovinco"
@@ -58,7 +58,7 @@
     {
       "id":      5,
       "question": "Position: Midfield / Nation: Uruguay",
-      "pictureQuestion":  "images/sterling.png",
+      "pictureQuestion":  "images/lodeiro.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
         "Nicolas Lodeiro"
@@ -75,9 +75,9 @@
       "question": "Position: Midfielder / Nation: Mexico",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/willian.png"},
-        { "id": "b", "pictureAnswer": "images/moutinho.png"},
-        { "id": "c", "pictureAnswer": "images/pogba.png"},
+        { "id": "a", "pictureAnswer": "images/dos_santos.png"},
+        { "id": "b", "pictureAnswer": "images/moralez.jpg"},
+        { "id": "c", "pictureAnswer": "images/alonso.jpg"},
         { "id": "d", "pictureAnswer": "images/eriksen.png" },
         { "id": "e", "pictureAnswer": "images/ndidi.png"}
 	  ],
