@@ -76,9 +76,8 @@
       "options": [
         { "id": "a", "pictureAnswer": "images/asensio.jpg"},
         { "id": "b", "pictureAnswer": "images/isco.jpg"},
-        { "id": "c", "pictureAnswer": "images/koke.jpg"},
-        { "id": "d", "pictureAnswer": "images/coutinho.jpg" },
-        { "id": "e", "pictureAnswer": "images/bale.jpg"}
+        { "id": "c", "pictureAnswer": "images/coutinho.jpg" },
+        { "id": "d", "pictureAnswer": "images/bale.jpg"}
 	  ],
       "correctAnswer": "b"
     },
