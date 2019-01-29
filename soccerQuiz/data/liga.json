@@ -1,1 +1,112 @@
+{
+  "briefName": 	"liga",
+  "title":      "La Liga Soccer Players",
+  "config":{
+    "randomizeQuestionSequence": false,
+    "autoSubmit": false
+  },
+  "questions": [
+    {
+      "id":      0,
+      "question": "Position: Midfield / Nation: Germany",
+      "pictureQuestion":  "images/uth.png", kroos
+      "type":     "pictureQuestionTrueFalse",
+      "correctAnswer": "True"
+    },
+    {
+      "id":      1,
+      "question": "Position: Midfield / Nation: Brazil",
+      "type":     "pictureAnswer",
+      "options": [
+        { "id": "a", "pictureAnswer": "images/goretzka.jpg"}, koke
+        { "id": "b", "pictureAnswer": "images/kagawa.png"}, rakitic
+        { "id": "c", "pictureAnswer": "images/tolisso.jpg"}, casemiro
+        { "id": "d", "pictureAnswer": "images/ribery.png"} saul Niguez
+      ],
+      "correctAnswer": "c"
+    },
+   	{
+      "id":      2,
+      "question": "Position: Defender / Nation: Spain",
+      "pictureQuestion":  "images/tah.jpg",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Samuel Umtiti"},
+        { "id": "b", "answer": "Marcelo"},
+        { "id": "c", "answer": "Daniel Carvajal"},
+        { "id": "d", "answer": "Raphael Varane"}
+      ],
+      "correctAnswer": "Daniel Carvajal"
+    },
+	{
+      "id":      3,
+      "question": "Position: Goalkeeper / Nation: Slovenia",
+      "pictureQuestion":  "images/robben.jpg",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Jan Oblak"
+      ]
+    },
+	{
+      "id":      4,
+      "question": "Position: Winger / Nation: France --> Ousmane Dembelé",
+      "type":     "textTrueFalse",
+      "correctAnswer":  "True"
+    },
+
+    {
+      "id":      5,
+      "question": "Position: Winger / Nation: France",
+      "pictureQuestion":  "images/kruse.png",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Thomas Lemar"
+      ]
+    },
+    {
+      "id":      6,
+      "question": "Position: Midfielder / Nation: Egypt --> Michy Batshuayi",
+      "type":     "textTrueFalse",
+      "correctAnswer":  "False"
+    },
+    {
+      "id":      7,
+      "question": "Position: Midfield / Nation: Brazil",
+      "type":     "pictureAnswer",
+      "options": [
+        { "id": "a", "pictureAnswer": "images/koen.jpg"}, Asensio
+        { "id": "b", "pictureAnswer": "images/sommer.png"}, Isco
+        { "id": "c", "pictureAnswer": "images/jarstein.png"}, Koke
+        { "id": "d", "pictureAnswer": "images/hradecky.jpg" }, Coutinho
+        { "id": "e", "pictureAnswer": "images/baumann.jpg"} Bale
+	  ],
+      "correctAnswer": "d"
+    },
+	{
+      "id":      8,
+      "question": "Position: Striker / Nation: France",
+      "type":     "textMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Álvaro Morata"},
+        { "id": "b", "answer": "Wissam Ben Yedder"},
+        { "id": "c", "answer": "Diego Costa"},
+        { "id": "d", "answer": "Maximilian Gómez"}
+      ],
+      "correctAnswer": "Wissam Ben Yedder"
+    },
+    {
+      "id":      9,
+      "question": "Position: Stiker / Nation: ?",
+      "pictureQuestion":  "images/martinez.jpg", andre silva
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Germany"},
+        { "id": "b", "answer": "France"},
+        { "id": "c", "answer": "Spain"},
+        { "id": "d", "answer": "Portugal"}
+      ],
+      "correctAnswer": "Portugal"
+    }
+  ]
+}
 
