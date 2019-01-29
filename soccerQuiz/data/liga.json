@@ -78,7 +78,7 @@
         { "id": "b", "pictureAnswer": "images/isco.jpg"},
         { "id": "c", "pictureAnswer": "images/koke.jpg"},
         { "id": "d", "pictureAnswer": "images/coutinho.jpg" },
-        { "id": "e", "pictureAnswer": "images/vazquez.png"}
+        { "id": "e", "pictureAnswer": "images/bale.jpg"}
 	  ],
       "correctAnswer": "b"
     },
@@ -97,7 +97,7 @@
     {
       "id":      9,
       "question": "Position: Midfield / Nation: ?",
-      "pictureQuestion":  "images/romain.jpg",
+      "pictureQuestion":  "images/andre.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
         { "id": "a", "answer": "Germany"},
