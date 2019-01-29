@@ -75,7 +75,7 @@
       "question": "Position: Goalkeeper / Nation: Finland",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/casteels.jpg"}, 
+        { "id": "a", "pictureAnswer": "images/koen.jpg"}, 
         { "id": "b", "pictureAnswer": "images/sommer.png"}, 
         { "id": "c", "pictureAnswer": "images/jarstein.png"}, 
         { "id": "d", "pictureAnswer": "images/hradecky.jpg" }, 
