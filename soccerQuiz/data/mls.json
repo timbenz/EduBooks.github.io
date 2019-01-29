@@ -75,7 +75,7 @@
       "question": "Position: Midfielder / Nation: Mexico",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/santos.jpg"},
+        { "id": "a", "pictureAnswer": "images/santos.jpeg"},
         { "id": "b", "pictureAnswer": "images/moralez.jpg"},
         { "id": "c", "pictureAnswer": "images/alonso.jpg"},
         { "id": "d", "pictureAnswer": "images/haris.jpg" },
@@ -99,7 +99,7 @@
     {
       "id":      9,
       "question": "Position: Midfield / Nation: ?",
-      "pictureQuestion":  "images/alessandrini.JPG",
+      "pictureQuestion":  "images/romain.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
         { "id": "a", "answer": "Germany"},
