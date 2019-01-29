@@ -28,7 +28,7 @@
    	{
       "id":      2,
       "question": "Position: Defender / Nation: Spain",
-      "pictureQuestion":  "images/ciman.jpg",
+      "pictureQuestion":  "images/carvajal.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
         { "id": "a", "answer": "Samuel Umtiti"},
@@ -74,10 +74,10 @@
       "question": "Position: Midfielder / Nation: Brazil",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/moralez.jpg"},
-        { "id": "b", "pictureAnswer": "images/santos.jpeg"},
-        { "id": "c", "pictureAnswer": "images/alonso.jpg"},
-        { "id": "d", "pictureAnswer": "images/haris.jpg" },
+        { "id": "a", "pictureAnswer": "images/asensio.jpg"},
+        { "id": "b", "pictureAnswer": "images/isco.jpg"},
+        { "id": "c", "pictureAnswer": "images/koke.jpg"},
+        { "id": "d", "pictureAnswer": "images/coutinho.jpg" },
         { "id": "e", "pictureAnswer": "images/vazquez.png"}
 	  ],
       "correctAnswer": "b"
