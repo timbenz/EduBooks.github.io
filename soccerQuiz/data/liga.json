@@ -74,11 +74,11 @@
       "question": "Position: Midfield / Nation: Brazil",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/koen.jpg"}, Asensio
-        { "id": "b", "pictureAnswer": "images/sommer.png"}, Isco
-        { "id": "c", "pictureAnswer": "images/jarstein.png"}, Koke
-        { "id": "d", "pictureAnswer": "images/hradecky.jpg" }, Coutinho
-        { "id": "e", "pictureAnswer": "images/baumann.jpg"} Bale
+        { "id": "a", "pictureAnswer": "images/koen.jpg"}, //Asensio
+        { "id": "b", "pictureAnswer": "images/sommer.png"}, //Isco
+        { "id": "c", "pictureAnswer": "images/jarstein.png"}, //Koke
+        { "id": "d", "pictureAnswer": "images/hradecky.jpg" }, //Coutinho
+        { "id": "e", "pictureAnswer": "images/baumann.jpg"} //Bale
 	  ],
       "correctAnswer": "d"
     },
@@ -97,7 +97,7 @@
     {
       "id":      9,
       "question": "Position: Stiker / Nation: ?",
-      "pictureQuestion":  "images/martinez.jpg", andre silva
+      "pictureQuestion":  "images/martinez.jpg", //andre silva
       "type":     "pictureQuestionMultipleChoice",
       "options": [
         { "id": "a", "answer": "Germany"},
