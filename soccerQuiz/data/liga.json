@@ -18,12 +18,11 @@
       "question": "Position: Midfield / Nation: Brazil",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/kok.jpg"},
-        { "id": "b", "pictureAnswer": "images/rakitic.jpg"},
-        { "id": "c", "pictureAnswer": "images/casemiro.png"},
-        { "id": "d", "pictureAnswer": "images/saul.png"}
+        { "id": "a", "pictureAnswer": "images/rakitic.jpg"},
+        { "id": "b", "pictureAnswer": "images/casemiro.png"},
+        { "id": "c", "pictureAnswer": "images/saul.png"}
       ],
-      "correctAnswer": "c"
+      "correctAnswer": "b"
     },
    	{
       "id":      2,
