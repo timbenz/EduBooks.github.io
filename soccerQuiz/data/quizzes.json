@@ -11,6 +11,13 @@
       "title": "MLS Soccer Players",
       "picture": "images/mls.png",
       "description": "Guess the answer with the hint and picture(s) provided."
+    },
+    
+     {
+      "briefName": "bundesliga",
+      "title": "Bundesliga Soccer Players",
+      "picture": "images/davies.jpg",
+      "description": "Guess the answer with the hint and picture(s) provided."
     }
     
    ]
