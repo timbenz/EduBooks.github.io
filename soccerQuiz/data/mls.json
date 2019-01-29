@@ -75,13 +75,13 @@
       "question": "Position: Midfielder / Nation: Mexico",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/santos.jpeg"},
-        { "id": "b", "pictureAnswer": "images/moralez.jpg"},
+        { "id": "a", "pictureAnswer": "images/moralez.jpg"},
+        { "id": "b", "pictureAnswer": "images/santos.jpeg"},
         { "id": "c", "pictureAnswer": "images/alonso.jpg"},
         { "id": "d", "pictureAnswer": "images/haris.jpg" },
         { "id": "e", "pictureAnswer": "images/vazquez.png"}
 	  ],
-      "correctAnswer": "a"
+      "correctAnswer": "b"
     },
 	{
       "id":      8,
