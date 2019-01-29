@@ -9,7 +9,7 @@
     {
       "id":      0,
       "question": "Position: Midfield / Nation: Germany",
-      "pictureQuestion":  "images/uth.png", kroos
+      "pictureQuestion":  "images/kroos.jpg", 
       "type":     "pictureQuestionTrueFalse",
       "correctAnswer": "True"
     },
@@ -18,10 +18,10 @@
       "question": "Position: Midfield / Nation: Brazil",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/goretzka.jpg"}, koke
-        { "id": "b", "pictureAnswer": "images/kagawa.png"}, rakitic
-        { "id": "c", "pictureAnswer": "images/tolisso.jpg"}, casemiro
-        { "id": "d", "pictureAnswer": "images/ribery.png"} saul Niguez
+        { "id": "a", "pictureAnswer": "images/koke.jpg"}, 
+        { "id": "b", "pictureAnswer": "images/rakitic.jpg"}, 
+        { "id": "c", "pictureAnswer": "images/casemiro.png"}, 
+        { "id": "d", "pictureAnswer": "images/saul.jpg"} 
       ],
       "correctAnswer": "c"
     },
