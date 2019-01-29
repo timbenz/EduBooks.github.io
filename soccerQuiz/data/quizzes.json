@@ -18,6 +18,13 @@
       "title": "Bundesliga Soccer Players",
       "picture": "images/davies.jpg",
       "description": "Guess the answer with the hint and picture(s) provided."
+    },
+    
+    {
+     "briefName": "liga",
+      "title": "La Liga Soccer Players",
+      "picture": "images/messi.jpg",
+      "description": "Guess the answer with the hint and picture(s) provided."
     }
     
    ]
