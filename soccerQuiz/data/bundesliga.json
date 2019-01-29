@@ -1,1 +1,113 @@
-
+{
+  "briefName": 	"bundesliga",
+  "title":      "Bundesliga Soccer Players",
+  "config":{
+    "randomizeQuestionSequence": false,
+    "autoSubmit": false
+  },
+  "questions": [
+    {
+      "id":      0,
+      "question": "Position: Winger / Nation: Mexico",
+      "pictureQuestion":  "images/vela.jpg",
+      "type":     "pictureQuestionTrueFalse",
+      "correctAnswer": "True"
+    },
+    {
+      "id":      1,
+      "question": "Position: Midfield / Nation: Paraguay",
+      "type":     "pictureAnswer",
+      "options": [
+        { "id": "a", "pictureAnswer": "images/piatti.png"},
+        { "id": "b", "pictureAnswer": "images/almiron.jpeg"},
+        { "id": "c", "pictureAnswer": "images/valeri.jpg"},
+        { "id": "d", "pictureAnswer": "images/bradley.jpg"},
+        { "id": "e", "pictureAnswer": "images/higuain.jpeg"}
+      ],
+      "correctAnswer": "b"
+    },
+   	{
+      "id":      2,
+      "question": "Position: Defender / Nation: Belgium",
+      "pictureQuestion":  "images/ciman.jpg",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Ike Opara"},
+        { "id": "b", "answer": "Laurent Ciman"},
+        { "id": "c", "answer": "Leandro Gonzalez Pirez"},
+        { "id": "d", "answer": "Guram Kashia"}
+      ],
+      "correctAnswer": "Laurent Ciman"
+    },
+	{
+      "id":      3,
+      "question": "Position: Striker / Nation: Italy",
+      "pictureQuestion":  "images/giovinco.jpg",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Sebastian Giovinco"
+      ]
+    },
+	{
+      "id":      4,
+      "question": "Position: Striker / Nation: Spain --> Zac Steffen",
+      "type":     "textTrueFalse",
+      "correctAnswer":  "False"
+    },
+	  
+    {
+      "id":      5,
+      "question": "Position: Midfield / Nation: Uruguay",
+      "pictureQuestion":  "images/lodeiro.jpg",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Nicolas Lodeiro"
+      ]
+    },
+    {
+      "id":      6,
+      "question": "Position: Midfield / Nation: Canada --> Jozy Altidore",
+      "type":     "textTrueFalse",
+      "correctAnswer":  "False"
+    },
+    {
+      "id":      7,
+      "question": "Position: Midfielder / Nation: Mexico",
+      "type":     "pictureAnswer",
+      "options": [
+        { "id": "a", "pictureAnswer": "images/moralez.jpg"},
+        { "id": "b", "pictureAnswer": "images/santos.jpeg"},
+        { "id": "c", "pictureAnswer": "images/alonso.jpg"},
+        { "id": "d", "pictureAnswer": "images/haris.jpg" },
+        { "id": "e", "pictureAnswer": "images/vazquez.png"}
+	  ],
+      "correctAnswer": "b"
+    },
+	{
+      "id":      8,
+      "question": "Position: Striker / Nation: England",
+      "type":     "textMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Raul Ruidiaz"},
+        { "id": "b", "answer": "Zlatan Ibrahimovic"},
+        { "id": "c", "answer": "David Villa"},
+        { "id": "d", "answer": "Josef Martínez"},
+        { "id": "e", "answer": "Bradley Wright-Phillips"}
+      ],
+      "correctAnswer": "Bradley Wright-Phillips"
+    },
+    {
+      "id":      9,
+      "question": "Position: Midfield / Nation: ?",
+      "pictureQuestion":  "images/romain.jpg",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Germany"},
+        { "id": "b", "answer": "France"},
+        { "id": "c", "answer": "Spain"},
+        { "id": "d", "answer": "USA"}
+      ],
+      "correctAnswer": "France"
+    }
+  ]
+}
