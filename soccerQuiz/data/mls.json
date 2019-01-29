@@ -75,7 +75,7 @@
       "question": "Position: Midfielder / Nation: Mexico",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/dos_santos.png"},
+        { "id": "a", "pictureAnswer": "images/santos.jpg"},
         { "id": "b", "pictureAnswer": "images/moralez.jpg"},
         { "id": "c", "pictureAnswer": "images/alonso.jpg"},
         { "id": "d", "pictureAnswer": "images/haris.jpg" },
@@ -88,19 +88,18 @@
       "question": "Position: Striker / Nation: England",
       "type":     "textMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Richarlison"},
-        { "id": "b", "answer": "Callum Wilson" },
-        { "id": "c", "answer": "Bradley Wright-Phillips"},
-        { "id": "d", "answer": "Sergio Aguero"},
-        { "id": "e", "answer": "Aleksandar Mitrovic"},
-        { "id": "f", "answer": "Glenn Murray"}
+        { "id": "a", "answer": "Raul Ruidiaz"},
+        { "id": "b", "answer": "Zlatan Ibrahimovic"},
+        { "id": "c", "answer": "David Villa"},
+        { "id": "d", "answer": "Josef Martínez"},
+        { "id": "e", "answer": "Bradley Wright-Phillips"}
       ],
       "correctAnswer": "Bradley Wright-Phillips"
     },
     {
       "id":      9,
       "question": "Position: Midfield / Nation: ?",
-      "pictureQuestion":  "images/alessandrini.jpeg",
+      "pictureQuestion":  "images/alessandrini.JPG",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
         { "id": "a", "answer": "Germany"},
