@@ -21,7 +21,7 @@
         { "id": "a", "pictureAnswer": "images/koke.jpg"},
         { "id": "b", "pictureAnswer": "images/rakitic.jpg"},
         { "id": "c", "pictureAnswer": "images/casemiro.png"},
-        { "id": "d", "pictureAnswer": "images/saul.jpg"}
+        { "id": "d", "pictureAnswer": "images/saul.png"}
       ],
       "correctAnswer": "b"
     },
