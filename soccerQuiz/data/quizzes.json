@@ -4,27 +4,27 @@
         "briefName": 	"players",
         "title":      "Premier League Soccer Players",
         "picture":	"images/pulisic.jpeg",
-        "description": "Guess the answer with the hint and picture(s) provided."
+        "description": ""
       },
     {
       "briefName": "mls",
       "title": "MLS Soccer Players",
       "picture": "images/zlatan.jpeg",
-      "description": "Guess the answer with the hint and picture(s) provided."
+      "description": ""
     },
     
      {
       "briefName": "bundesliga",
       "title": "Bundesliga Soccer Players",
       "picture": "images/davies.jpg",
-      "description": "Guess the answer with the hint and picture(s) provided."
+      "description": ""
     },
     
     {
      "briefName": "liga",
       "title": "La Liga Soccer Players",
       "picture": "images/messi.jpg",
-      "description": "Guess the answer with the hint and picture(s) provided."
+      "description": ""
     }
     
    ]
