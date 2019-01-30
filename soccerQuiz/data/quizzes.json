@@ -4,27 +4,27 @@
         "briefName": 	"players",
         "title":      "Premier League Soccer Players",
         "picture":	"images/pulisic.jpeg",
-        "description": ""
+        "description": "General knowledge about Premier League players"
       },
     {
       "briefName": "mls",
       "title": "MLS Soccer Players",
       "picture": "images/zlatan.jpeg",
-      "description": ""
+      "description": "General knowledge about MLS players"
     },
     
      {
       "briefName": "bundesliga",
       "title": "Bundesliga Soccer Players",
       "picture": "images/davies.jpg",
-      "description": ""
+      "description": "General knowledge about Bundesliga players"
     },
     
     {
      "briefName": "liga",
       "title": "La Liga Soccer Players",
       "picture": "images/messi.jpg",
-      "description": ""
+      "description": "General knowledge about La Liga players"
     }
     
    ]
