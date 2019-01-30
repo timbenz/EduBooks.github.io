@@ -1,6 +1,6 @@
 {
-  "briefName": 	"presidents",
-  "title":      "US Presidents",
+  "briefName": 	"players",
+  "title":      "NFL Players",
   "config": {
     "randomizeQuestionSequence": false,
     "autoSubmit": false,
