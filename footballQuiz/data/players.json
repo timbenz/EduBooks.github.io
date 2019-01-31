@@ -78,7 +78,7 @@
     },
     {
       "id":      7,
-      "question": "Position: OG / State of Birth: ",
+      "question": "Position: OG / State of Birth: Indiana",
       "type":     "pictureAnswer",
       "options": [
         { "id": "a", "pictureAnswer": "images/George_W_Bush.jpg"}, //david decastro
@@ -93,22 +93,22 @@
       "question": "Position: RB / State of Birth: ?", //ezekiel elliot
       "type":     "textMultipleChoice",
       "options": [
-        { "id": "a", "answer": "John Quincy Adams"}, 
-        { "id": "b", "answer": "Harry Truman" },
-        { "id": "c", "answer": "John Adams"},
-        { "id": "d", "answer": "George W. Bush"},
-        { "id": "e", "answer": "John Quincy Adams and George W. Bush"},
-        { "id": "f", "answer": "John Quincy Adams, Harry Truman, and George W. Bush"}
+        { "id": "a", "answer": "Michigon"}, 
+        { "id": "b", "answer": "Illinois" },
+        { "id": "c", "answer": "Arkansas"},
+        { "id": "d", "answer": "Minnesota"},
+        { "id": "e", "answer": "Indiana"},
+        { "id": "f", "answer": "South Carolina"}
       ],
-      "correctAnswer": "John Quincy Adams and George W. Bush"
+      "correctAnswer": "Illinois"
     },
     {
       "id":      9,
-      "question": "Position: C / State of Birth: ",
+      "question": "Position: CB / State of Birth: Florida",
       "pictureQuestion":  "images/James_Polk.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Patrick Peterson"},
+        { "id": "a", "answer": "Matthew Stafford"},
         { "id": "b", "answer": "A.J. Bouye"},
         { "id": "c", "answer": "Jalen Ramsey"},
         { "id": "d", "answer": "Xavier Rhodes"}
