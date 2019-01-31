@@ -83,7 +83,7 @@
       "options": [
         { "id": "a", "pictureAnswer": "images/castro.jpg" },
         { "id": "b", "pictureAnswer": "images/martin.jpg"}, 
-        { "id": "c", "pictureAnswer": "images/ertz.jpg"},
+        { "id": "c", "pictureAnswer": "images/ertz.png"},
         { "id": "d", "pictureAnswer": "images/green.jpg" }
 	  ],
       "correctAnswer": "b"
