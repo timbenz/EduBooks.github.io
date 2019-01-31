@@ -45,7 +45,8 @@
       "pictureQuestion":  "images/gronkowski.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Rob Gronkowski"
+        "Rob Gronkowski",
+	"Robert Gronkowski"
       ]
     },
     {
