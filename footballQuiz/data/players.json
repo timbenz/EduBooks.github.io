@@ -10,92 +10,89 @@
   "questions": [
     {
       "id":      0,
-      "question": "This president pictured was the fourth president",
-      "pictureQuestion":  "images/Thomas_Jefferson.jpg",
+      "question": "Position: RB / State of Birth: ",
+      "pictureQuestion":  "images/Thomas_Jefferson.jpg", //Le Veon Bell
       "type":     "pictureQuestionTrueFalse",
-      "correctAnswer": "False"
+      "correctAnswer": "True"
     },
     {
       "id":      1,
-      "question": "Select the year Franklin D. Roosevelt first took office as president",
+      "question": "Position: De / State of Birth: ",
       "type":     "textMultipleChoice",
       "options": [
-        { "id": "a", "answer": "1932"},
-        { "id": "b", "answer": "1929"},
-        { "id": "c", "answer": "1935"},
-        { "id": "d", "answer": "1933"}
+        { "id": "a", "answer": "Aaron Donald"},
+        { "id": "b", "answer": "Calais Campbell"},
+        { "id": "c", "answer": "Chandler Jones"},
+        { "id": "d", "answer": "Cameron Jordon"}
       ],
-      "correctAnswer": "1933"
+      "correctAnswer": "Aaron Donald"
     },
     {
       "id":      2,
-      "question": "Click on the picture of the President who was NOT assassinated while in office",
+      "question": "Position: LB / State of Birth: ",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/William_McKinley.jpg"},
-        { "id": "b", "pictureAnswer": "images/Abraham_Lincoln.jpg"},
-        { "id": "c", "pictureAnswer": "images/Grover_Cleveland.jpg" },
-        { "id": "d", "pictureAnswer": "images/John_F_Kennedy.jpg"}
+        { "id": "a", "pictureAnswer": "images/William_McKinley.jpg"}, //Luke kuechly
+        { "id": "b", "pictureAnswer": "images/Abraham_Lincoln.jpg"}, //jadeveon clowney
+        { "id": "c", "pictureAnswer": "images/Grover_Cleveland.jpg" }, //von miller
+        { "id": "d", "pictureAnswer": "images/John_F_Kennedy.jpg"} //Sean Lee
       ],
       "correctAnswer": "c"
     },
     {
       "id":      3,
-      "question": "Give the first and last name of the president who said 'Speak softly and carry a big stick'",
+      "question": "Position: TE / State of Birth: ",
       "type":     "textShortAnswer",
       "correctAnswerArray": [
-        "Ted Roosevelt",
-        "Teddy Roosevelt",
-        "Theodore Roosevelt"
+        "Rob Gronkowski"
       ]
     },
     {
       "id":      4,
-      "question": "Before he was a U.S. president, this man was president of what university?",
+      "question": "Position: WR / State of Birth: ",
       "pictureQuestion":  "images/Woodrow_Wilson.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Harvard"},
-        { "id": "b", "answer": "Princeton"},
-        { "id": "c", "answer": "Yale"},
-        { "id": "d", "answer": "Columbia"}
+        { "id": "a", "answer": "Julio Jones"},
+        { "id": "b", "answer": "DeAndre Hopkins"},
+        { "id": "c", "answer": "Antonio Brown"},
+        { "id": "d", "answer": "Odell Beckham Jr."}
       ],
-      "correctAnswer": "Princeton"
+      "correctAnswer": "Julio Jones"
     },
     {
       "id":      5,
-      "question": "Give the first and last name of this president",
+      "question": "Position: QB / State of Birth: ",
       "pictureQuestion":  "images/Franklin_Pierce.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Franklin Pierce"
+        "Drew Brees"
       ]
     },
     {
       "id":      6,
-      "question": "The Cuban Missle Crisis occurred while Kennedy was president",
+      "question": "Position: C / State of Birth: California --> Travis Frederick",
       "type":     "textTrueFalse",
-      "correctAnswer":  "True"
+      "correctAnswer":  "False"
     },
     {
       "id":      7,
-      "question": "Click on the picture of the President who was impeached",
+      "question": "Position: OG / State of Birth: ",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/George_W_Bush.jpg"},
-        { "id": "b", "pictureAnswer": "images/James_Polk.jpg"},
-        { "id": "c", "pictureAnswer": "images/Richard_Nixon.jpg"},
-        { "id": "d", "pictureAnswer": "images/Andrew_Johnson.jpg" },
-        { "id": "e", "pictureAnswer": "images/Andrew_Jackson.jpg"}
+        { "id": "a", "pictureAnswer": "images/George_W_Bush.jpg"}, //david decastro
+        { "id": "b", "pictureAnswer": "images/James_Polk.jpg"}, //zack martin
+        { "id": "c", "pictureAnswer": "images/Richard_Nixon.jpg"}, //Zach ertz
+        { "id": "d", "pictureAnswer": "images/Andrew_Johnson.jpg" } //aj green
 	  ],
-      "correctAnswer": "d"
+      "correctAnswer": "b"
     },
 	{
       "id":      8,
-      "question": "Which president(s) lost the popular vote but was elected anyway",
+      "question": "Position: RB / State of Birth: ?", //ezekiel elliot
       "type":     "textMultipleChoice",
       "options": [
-        { "id": "a", "answer": "John Quincy Adams"},
+        { "id": "a", "answer": "John Quincy Adams"}, 
         { "id": "b", "answer": "Harry Truman" },
         { "id": "c", "answer": "John Adams"},
         { "id": "d", "answer": "George W. Bush"},
@@ -106,16 +103,16 @@
     },
     {
       "id":      9,
-      "question": "What war occurred while this president was in office?",
+      "question": "Position: C / State of Birth: ",
       "pictureQuestion":  "images/James_Polk.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "World War I"},
-        { "id": "b", "answer": "Mexican-American War"},
-        { "id": "c", "answer": "Spanish-American War"},
-        { "id": "d", "answer": "Korean War"}
+        { "id": "a", "answer": "Patrick Peterson"},
+        { "id": "b", "answer": "A.J. Bouye"},
+        { "id": "c", "answer": "Jalen Ramsey"},
+        { "id": "d", "answer": "Xavier Rhodes"}
       ],
-      "correctAnswer": "Mexican-American War"
+      "correctAnswer": "Xavier Rhodes"
     }
   ]
 }
