@@ -20,8 +20,8 @@
       "question": "Position: DE / State of Birth: Pennsylvania",
       "type":     "textMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Aaron Donald"},
-        { "id": "b", "answer": "Calais Campbell"},
+        { "id": "a", "answer": "Calais Campbell"},
+        { "id": "b", "answer": "Aaron Donald"},
         { "id": "c", "answer": "Chandler Jones"},
         { "id": "d", "answer": "Cameron Jordan"}
       ],
