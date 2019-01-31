@@ -5,6 +5,7 @@
     "randomizeQuestionSequence": false,
     "autoSubmit": false,
     "percentGreatJob": 60,
+	"rightSide": "giphy"
   },
   "questions": [
     {
