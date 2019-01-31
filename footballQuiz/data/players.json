@@ -90,7 +90,7 @@
     },
 	{
       "id":      8,
-      "question": "Ezekiel Elliot -- Position: RB / State of Birth: ? ", //ezekiel elliot
+      "question": "Ezekiel Elliot -- Position: RB / State of Birth: ? ", 
       "type":     "textMultipleChoice",
       "options": [
         { "id": "a", "answer": "Michigon"}, 
