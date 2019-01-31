@@ -82,15 +82,15 @@
       "type":     "pictureAnswer",
       "options": [
         { "id": "a", "pictureAnswer": "images/decastro.jpg"},
-        { "id": "b", "pictureAnswer": "images/mnart.jpg"}, //zack martin
-        { "id": "c", "pictureAnswer": "images/Richard_Nixon.jpg"}, //Zach ertz
-        { "id": "d", "pictureAnswer": "images/Andrew_Johnson.jpg" } //aj green
+        { "id": "b", "pictureAnswer": "images/martin.jpg"}, 
+        { "id": "c", "pictureAnswer": "images/ertz.jpg"},
+        { "id": "d", "pictureAnswer": "images/green.jpg" }
 	  ],
       "correctAnswer": "b"
     },
 	{
       "id":      8,
-      "question": "Position: RB / State of Birth: ?", //ezekiel elliot
+      "question": "Ezekiel Elliot -- Position: RB / State of Birth: ? ", //ezekiel elliot
       "type":     "textMultipleChoice",
       "options": [
         { "id": "a", "answer": "Michigon"}, 
@@ -105,7 +105,7 @@
     {
       "id":      9,
       "question": "Position: CB / State of Birth: Florida",
-      "pictureQuestion":  "images/James_Polk.jpg",
+      "pictureQuestion":  "images/rhodes.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
         { "id": "a", "answer": "Matthew Stafford"},
