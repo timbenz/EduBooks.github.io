@@ -42,7 +42,7 @@
 	   {
       "id":      3,
       "question": "Position: TE / State of Birth: New York",
-      "pictureQuestion":  "images/Franklin_Pierce.jpg",
+      "pictureQuestion":  "images/gronkowski.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
         "Rob Gronkowski"
@@ -51,7 +51,7 @@
     {
       "id":      4,
       "question": "Position: WR / State of Birth: Alabama",
-      "pictureQuestion":  "images/Woodrow_Wilson.jpg",
+      "pictureQuestion":  "images/jones.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
         { "id": "a", "answer": "Julio Jones"},
@@ -64,7 +64,7 @@
     {
       "id":      5,
       "question": "Position: QB / State of Birth: Texas",
-      "pictureQuestion":  "images/Franklin_Pierce.jpg",
+      "pictureQuestion":  "images/brees.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
         "Drew Brees"
@@ -81,8 +81,8 @@
       "question": "Position: OG / State of Birth: Indiana",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/George_W_Bush.jpg"}, //david decastro
-        { "id": "b", "pictureAnswer": "images/James_Polk.jpg"}, //zack martin
+        { "id": "a", "pictureAnswer": "images/decastro.jpg"},
+        { "id": "b", "pictureAnswer": "images/mnart.jpg"}, //zack martin
         { "id": "c", "pictureAnswer": "images/Richard_Nixon.jpg"}, //Zach ertz
         { "id": "d", "pictureAnswer": "images/Andrew_Johnson.jpg" } //aj green
 	  ],
