@@ -54,8 +54,8 @@
       "pictureQuestion":  "images/jones.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Julio Jones"},
-        { "id": "b", "answer": "DeAndre Hopkins"},
+        { "id": "a", "answer": "DeAndre Hopkins"},
+        { "id": "b", "answer": "Julio Jones"},
         { "id": "c", "answer": "Antonio Brown"},
         { "id": "d", "answer": "Odell Beckham Jr."}
       ],
