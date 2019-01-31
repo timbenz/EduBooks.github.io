@@ -10,26 +10,26 @@
   "questions": [
     {
       "id":      0,
-      "question": "Position: RB / State of Birth: ",
-      "pictureQuestion":  "images/Thomas_Jefferson.jpg", //Le Veon Bell
+      "question": "Position: RB / State of Birth: Ohio",
+      "pictureQuestion":  "images/Thomas_Jefferson.jpg", 
       "type":     "pictureQuestionTrueFalse",
       "correctAnswer": "True"
     },
     {
       "id":      1,
-      "question": "Position: De / State of Birth: ",
+      "question": "Position: DE / State of Birth: Pennsylvania",
       "type":     "textMultipleChoice",
       "options": [
         { "id": "a", "answer": "Aaron Donald"},
         { "id": "b", "answer": "Calais Campbell"},
         { "id": "c", "answer": "Chandler Jones"},
-        { "id": "d", "answer": "Cameron Jordon"}
+        { "id": "d", "answer": "Cameron Jordan"}
       ],
       "correctAnswer": "Aaron Donald"
     },
     {
       "id":      2,
-      "question": "Position: LB / State of Birth: ",
+      "question": "Position: LB / State of Birth: Texas",
       "type":     "pictureAnswer",
       "options": [
         { "id": "a", "pictureAnswer": "images/William_McKinley.jpg"}, //Luke kuechly
@@ -39,17 +39,18 @@
       ],
       "correctAnswer": "c"
     },
-    {
+	   {
       "id":      3,
-      "question": "Position: TE / State of Birth: ",
-      "type":     "textShortAnswer",
+      "question": "Position: TE / State of Birth: New York",
+      "pictureQuestion":  "images/Franklin_Pierce.jpg",
+      "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
         "Rob Gronkowski"
       ]
     },
     {
       "id":      4,
-      "question": "Position: WR / State of Birth: ",
+      "question": "Position: WR / State of Birth: Alabama",
       "pictureQuestion":  "images/Woodrow_Wilson.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
@@ -62,7 +63,7 @@
     },
     {
       "id":      5,
-      "question": "Position: QB / State of Birth: ",
+      "question": "Position: QB / State of Birth: Texas",
       "pictureQuestion":  "images/Franklin_Pierce.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
