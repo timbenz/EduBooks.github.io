@@ -81,7 +81,7 @@
       "question": "Position: OG / State of Birth: Indiana",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/decastro.jpg"},
+        { "id": "a", "pictureAnswer": "images/castro.jpg" },
         { "id": "b", "pictureAnswer": "images/martin.jpg"}, 
         { "id": "c", "pictureAnswer": "images/ertz.jpg"},
         { "id": "d", "pictureAnswer": "images/green.jpg" }
