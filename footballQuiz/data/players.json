@@ -11,7 +11,7 @@
     {
       "id":      0,
       "question": "Position: RB / State of Birth: Ohio",
-      "pictureQuestion":  "images/Thomas_Jefferson.jpg", 
+      "pictureQuestion":  "images/bell.jpg", 
       "type":     "pictureQuestionTrueFalse",
       "correctAnswer": "True"
     },
@@ -32,10 +32,10 @@
       "question": "Position: LB / State of Birth: Texas",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/William_McKinley.jpg"}, //Luke kuechly
-        { "id": "b", "pictureAnswer": "images/Abraham_Lincoln.jpg"}, //jadeveon clowney
-        { "id": "c", "pictureAnswer": "images/Grover_Cleveland.jpg" }, //von miller
-        { "id": "d", "pictureAnswer": "images/John_F_Kennedy.jpg"} //Sean Lee
+        { "id": "a", "pictureAnswer": "images/kuechly.jpg"},
+        { "id": "b", "pictureAnswer": "images/clowney.jpg"},
+        { "id": "c", "pictureAnswer": "images/miller.jpg" }, 
+        { "id": "d", "pictureAnswer": "images/lee.jpg"} 
       ],
       "correctAnswer": "c"
     },
