@@ -1,6 +1,6 @@
 {
-  "briefName": 	"presidents",
-  "title":      "US Presidents",
+  "briefName": 	"players",
+  "title":      "MLB Players",
   "config": {
     "randomizeQuestionSequence": false,
     "autoSubmit": false,
@@ -10,7 +10,7 @@
   "questions": [
     {
       "id":      0,
-      "question": "This president pictured was the fourth president",
+      "question": "Who founded kids4community?",
       "pictureQuestion":  "images/Thomas_Jefferson.jpg",
       "type":     "pictureQuestionTrueFalse",
       "correctAnswer": "False"
