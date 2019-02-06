@@ -79,10 +79,10 @@
       "question": "Position: 2B / Team: Mariners",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/George_W_Bush.jpg"}, daniel murphy
-        { "id": "b", "pictureAnswer": "images/James_Polk.jpg"}, robinson cano
-        { "id": "c", "pictureAnswer": "images/Richard_Nixon.jpg"}, brian dozier
-        { "id": "d", "pictureAnswer": "images/Andrew_Johnson.jpg" } Jonathon schoop
+        { "id": "a", "pictureAnswer": "images/murphy.png"},
+        { "id": "b", "pictureAnswer": "images/cano.png"},
+        { "id": "c", "pictureAnswer": "images/dozier.png"},
+        { "id": "d", "pictureAnswer": "images/schoop.png" }
 	  ],
       "correctAnswer": "d"
     },
@@ -101,15 +101,15 @@
     {
       "id":      9,
       "question": "Position: ? / Team: Atros",
-      "pictureQuestion":  "images/James_Polk.jpg", carlos correa
+      "pictureQuestion":  "images/correa.png",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "World War I"},
-        { "id": "b", "answer": "Mexican-American War"},
-        { "id": "c", "answer": "Spanish-American War"},
-        { "id": "d", "answer": "Korean War"}
+        { "id": "a", "answer": "SP"},
+        { "id": "b", "answer": "OF"},
+        { "id": "c", "answer": "SS"},
+        { "id": "d", "answer": "1B"}
       ],
-      "correctAnswer": "Mexican-American War"
+      "correctAnswer": "SS"
     }
   ]
 }
