@@ -47,6 +47,7 @@
       "correctAnswerArray": [
         "Clayton Kershaw"
       ]
+	    },
     {
       "id":      4,
       "question": "Position: 1B / Team: Reds",
@@ -68,6 +69,7 @@
       "correctAnswerArray": [
         "Gary Sanchez"
       ]
+      },      
     {
       "id":      6,
       "question": "Position: SP / Team: Red Sox --> Chris Sale",
