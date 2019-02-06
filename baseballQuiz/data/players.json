@@ -17,97 +17,91 @@
     },
     {
       "id":      1,
-      "question": "Select the year Franklin D. Roosevelt first took office as president",
+      "question": "Position: SS / Team: Dodgers",
       "type":     "textMultipleChoice",
       "options": [
-        { "id": "a", "answer": "1932"},
-        { "id": "b", "answer": "1929"},
-        { "id": "c", "answer": "1935"},
-        { "id": "d", "answer": "1933"}
+        { "id": "a", "answer": "Manny Machado"},
+        { "id": "b", "answer": "Francisco Lindor"},
+        { "id": "c", "answer": "Corey Seager"},
+        { "id": "d", "answer": "Trea Turner"}
       ],
-      "correctAnswer": "1933"
+      "correctAnswer": "Corey Seager"
     },
     {
       "id":      2,
-      "question": "Click on the picture of the President who was NOT assassinated while in office",
+      "question": "Position: 3B / Team: Rockies",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/William_McKinley.jpg"},
-        { "id": "b", "pictureAnswer": "images/Abraham_Lincoln.jpg"},
-        { "id": "c", "pictureAnswer": "images/Grover_Cleveland.jpg" },
-        { "id": "d", "pictureAnswer": "images/John_F_Kennedy.jpg"}
+        { "id": "a", "pictureAnswer": "images/donaldson.png"},  
+        { "id": "b", "pictureAnswer": "images/arenado.png"},
+        { "id": "c", "pictureAnswer": "images/bryant.png" }, 
+        { "id": "d", "pictureAnswer": "images/ramirez.png"}
       ],
-      "correctAnswer": "c"
+      "correctAnswer": "b"
     },
-    {
+	    {
       "id":      3,
-      "question": "Give the first and last name of the president who said 'Speak softly and carry a big stick'",
-      "type":     "textShortAnswer",
-      "correctAnswerArray": [
-        "Ted Roosevelt",
-        "Teddy Roosevelt",
-        "Theodore Roosevelt"
-      ]
-    },
-    {
-      "id":      4,
-      "question": "Before he was a U.S. president, this man was president of what university?",
-      "pictureQuestion":  "images/Woodrow_Wilson.jpg",
-      "type":     "pictureQuestionMultipleChoice",
-      "options": [
-        { "id": "a", "answer": "Harvard"},
-        { "id": "b", "answer": "Princeton"},
-        { "id": "c", "answer": "Yale"},
-        { "id": "d", "answer": "Columbia"}
-      ],
-      "correctAnswer": "Princeton"
-    },
-    {
-      "id":      5,
-      "question": "Give the first and last name of this president",
-      "pictureQuestion":  "images/Franklin_Pierce.jpg",
+      "question": "Position: SP / Team: Dodgers",
+      "pictureQuestion":  "images/kershaw.png",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Franklin Pierce"
+        "Clayton Kershaw"
       ]
+    {
+      "id":      4,
+      "question": "Position: 1B / Team: Reds",
+      "pictureQuestion":  "images/votto.png",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Paul Goldschmidt"},
+        { "id": "b", "answer": "Joey Votto"},
+        { "id": "c", "answer": "Freddi Freeman"},
+        { "id": "d", "answer": "Anthony Rizzo"}
+      ],
+      "correctAnswer": "Joey Votto"
     },
+      {
+      "id":      5,
+      "question": "Position: C / Team: Yankees",
+      "pictureQuestion":  "images/sanchez.png",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Gary Sanchez"
+      ]
     {
       "id":      6,
-      "question": "The Cuban Missle Crisis occurred while Kennedy was president",
+      "question": "Position: SP / Team: Red Sox --> Chris Sale",
       "type":     "textTrueFalse",
       "correctAnswer":  "True"
     },
     {
       "id":      7,
-      "question": "Click on the picture of the President who was impeached",
+      "question": "Position: 2B / Team: Mariners",
       "type":     "pictureAnswer",
       "options": [
-        { "id": "a", "pictureAnswer": "images/George_W_Bush.jpg"},
-        { "id": "b", "pictureAnswer": "images/James_Polk.jpg"},
-        { "id": "c", "pictureAnswer": "images/Richard_Nixon.jpg"},
-        { "id": "d", "pictureAnswer": "images/Andrew_Johnson.jpg" },
-        { "id": "e", "pictureAnswer": "images/Andrew_Jackson.jpg"}
+        { "id": "a", "pictureAnswer": "images/George_W_Bush.jpg"}, daniel murphy
+        { "id": "b", "pictureAnswer": "images/James_Polk.jpg"}, robinson cano
+        { "id": "c", "pictureAnswer": "images/Richard_Nixon.jpg"}, brian dozier
+        { "id": "d", "pictureAnswer": "images/Andrew_Johnson.jpg" } Jonathon schoop
 	  ],
       "correctAnswer": "d"
     },
 	{
       "id":      8,
-      "question": "Which president(s) lost the popular vote but was elected anyway",
+      "question": "Position: RP / Team: Indians",
       "type":     "textMultipleChoice",
       "options": [
-        { "id": "a", "answer": "John Quincy Adams"},
-        { "id": "b", "answer": "Harry Truman" },
-        { "id": "c", "answer": "John Adams"},
-        { "id": "d", "answer": "George W. Bush"},
-        { "id": "e", "answer": "John Quincy Adams and George W. Bush"},
-        { "id": "f", "answer": "John Quincy Adams, Harry Truman, and George W. Bush"}
+        { "id": "a", "answer": "Craig Kimbrel"},
+        { "id": "b", "answer": "Luis Severino" },
+        { "id": "c", "answer": "Noah Syndergaard"},
+        { "id": "d", "answer": "Andrew Miller"}
       ],
-      "correctAnswer": "John Quincy Adams and George W. Bush"
+      "correctAnswer": "Andrew Miller"
     },
     {
       "id":      9,
-      "question": "What war occurred while this president was in office?",
-      "pictureQuestion":  "images/James_Polk.jpg",
+      "question": "Position: ? / Team: Atros",
+      "pictureQuestion":  "images/James_Polk.jpg", carlos correa
       "type":     "pictureQuestionMultipleChoice",
       "options": [
         { "id": "a", "answer": "World War I"},
