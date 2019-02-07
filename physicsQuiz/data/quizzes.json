@@ -1,10 +1,10 @@
 {
   "quizzes" : [
       {
-        "briefName": 	"presidents",
-        "title":      "American Presidents",
+        "briefName": 	"formulas",
+        "title":      "Physics Formulas Quiz",
         "picture":	"images/George_Washington.jpg",
-        "description": "General knowledge about American presidents"
+        "description": "Knowledge about Physics formulas"
       }
    ]
 }
