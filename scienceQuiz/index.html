@@ -2,33 +2,43 @@
 <html ng-app="pictureQuiz">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="initial-scale=1">
+ 
   <title>Picture Quiz</title>
   <link rel="stylesheet" type="text/css" href="css/style.css">
+ 
+  <style>
+ html{
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRROPIp16vaNimhXv2RThCv-l3_MBo_dqDy7TQ1JBzrUQd9pmIXbA);
+          }
+    
+    body{
+      width: 750px;
+      margin: auto;
+      border-width: 10px;
+      border-style: groove;
+      background-image: url(https://www.publicdomainpictures.net/pictures/120000/nahled/light-green-texture-background.jpg);
+      
+    }
+   
+ </style>
+
 </head>
 
 <body>
-  <div ui-view></div>
+  <div align = "center">
+    <h1>Picture Quizzes</h1>
 
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular.js"></script>
-  <script src="https://code.angularjs.org/1.4.2/angular-animate.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.15/angular-ui-router.js"></script>
-  <script src="js/app.js"></script>
-  <script src="js/controllers/homeCtrl.js"></script>
-  <script src="js/controllers/quizCtrl.js"></script>
-  <script src="js/controllers/resultsCtrl.js"></script>
-  <script src="js/directives/pictureQuestionTrueFalse.js"></script>
-  <script src="js/directives/pictureQuestionMultipleChoice.js"></script>
-  <script src="js/directives/pictureQuestionShortAnswer.js"></script>
-  <script src="js/directives/pictureAnswer.js"></script>
-  <script src="js/directives/textMultipleChoice.js"></script>
-  <script src="js/directives/textTrueFalse.js"></script>
-  <script src="js/directives/textShortAnswer.js"></script>
-  <script src="js/directives/animateOnLoad.js"></script>
-  <script src="js/services/quizService.js"></script>
-  <script src="js/services/homeService.js"></script>
+   <h3><a href = "https://edubooksco.com/physicsQuiz/#/">Physics</a></h3>
+    <a href = "https://edubooksco.com/physicsQuiz/#/"><img src="images/peandke.png" width = "150" height = "100"></a>
+   
+   //<h3><a href = "https://edubooksco.com/footballQuiz/#/">Football Quizzes</a></h3>
+    //<a href = "https://edubooksco.com/footballQuiz/#/"><img src="images/football.jpg" width = "175" height = "100"></a>
+   
+   //<h3><a href = "https://edubooksco.com/baseballQuiz/#/">Baseball Quizzes</a></h3>
+   //<a href = "https://edubooksco.com/baseballQuiz/#/"><img src="images/baseball.jpg" width = "150" height = "100"></a>
+   
+  </div>
+  
 </body>
 
 </html>
