@@ -1,6 +1,6 @@
 {
-  "briefName": 	"presidents",
-  "title":      "US Presidents",
+  "briefName": 	"formulas",
+  "title":      "Physics Formulas Quiz",
   "config": {
     "randomizeQuestionSequence": false,
     "autoSubmit": false,
