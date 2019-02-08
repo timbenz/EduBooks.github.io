@@ -2,8 +2,8 @@
   "briefName": 	"liga",
   "title":      "La Liga Soccer Players",
   "config":{
-    "randomizeQuestionSequence": false,
-    "autoSubmit": false
+    "randomizeQuestionSequence": true,
+    "autoSubmit": true
   },
   "questions": [
     {
