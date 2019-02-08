@@ -14,43 +14,43 @@
       "pictureQuestion":  "images/ke.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Potential"},
+        { "id": "a", "answer": "Mechanical"},
         { "id": "b", "answer": "Kinetic"},
-        { "id": "c", "answer": "Mechanical"},
+        { "id": "c", "answer": "Potential"},
         { "id": "d", "answer": "Electric"}
       ],
       "correctAnswer": "Kinetic"
     },
     {
       "id":      1,
-      "question": "_____ energy which a body possesses by virtue of being in motion",
-      "pictureQuestion":  "images/ke.jpg",
+      "question": "_____ energy possessed by a body by virtue of its position relative to others",
+      "pictureQuestion":  "images/pe.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Potential"},
+        { "id": "a", "answer": "Mechanical"},
         { "id": "b", "answer": "Kinetic"},
-        { "id": "c", "answer": "Mechanical"},
+        { "id": "c", "answer": "Potential"},
         { "id": "d", "answer": "Electric"}
       ],
-      "correctAnswer": "Kinetic"
+      "correctAnswer": "Potential"
     },
     {
       "id":      2,
-      "question": "_____ energy which a body possesses by virtue of being in motion",
-      "pictureQuestion":  "images/ke.jpg",
+      "question": "_____ is the quantity of motion of a moving body",
+      "pictureQuestion":  "images/momentum.webp",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Potential"},
-        { "id": "b", "answer": "Kinetic"},
-        { "id": "c", "answer": "Mechanical"},
-        { "id": "d", "answer": "Electric"}
+        { "id": "a", "answer": "Energy"},
+        { "id": "b", "answer": "Impulse"},
+        { "id": "c", "answer": "Force"},
+        { "id": "d", "answer": "Momentum"}
       ],
-      "correctAnswer": "Kinetic"
+      "correctAnswer": "Momentum"
     },
     {
       "id":      3,
       "question": "_____ energy which a body possesses by virtue of being in motion",
-      "pictureQuestion":  "images/ke.jpg",
+      "pictureQuestion":  "images/mome.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
         { "id": "a", "answer": "Potential"},
