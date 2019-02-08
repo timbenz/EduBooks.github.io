@@ -2,7 +2,7 @@
   "briefName": 	"players",
   "title":      "MLB Players",
   "config": {
-    "randomizeQuestionSequence": false,
+    "randomizeQuestionSequence": true,
     "autoSubmit": true,
     "percentGreatJob": 60,
     "rightSide": "giphy"
