@@ -2,8 +2,8 @@
   "briefName": 	"players",
   "title":      "Premier League Soccer Players",
   "config":{
-    "randomizeQuestionSequence": false,
-    "autoSubmit": false
+    "randomizeQuestionSequence": true,
+    "autoSubmit": true
   },
   "questions": [
     {
