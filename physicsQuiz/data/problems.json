@@ -2,7 +2,7 @@
   "briefName": 	"problems",
   "title":      "Physics Problems Quiz",
   "config": {
-    "randomizeQuestionSequence": false,
+    "randomizeQuestionSequence": true,
     "autoSubmit": true,
     "percentGreatJob": 60,
     "rightSide": "giphy"
