@@ -2,8 +2,8 @@
   "briefName": 	"bundesliga",
   "title":      "Bundesliga Soccer Players",
   "config":{
-    "randomizeQuestionSequence": false,
-    "autoSubmit": false
+    "randomizeQuestionSequence": true,
+    "autoSubmit": true
   },
   "questions": [
     {
