@@ -2,8 +2,8 @@
   "briefName": 	"mls",
   "title":      "MLS Soccer Players",
   "config":{
-    "randomizeQuestionSequence": false,
-    "autoSubmit": false
+    "randomizeQuestionSequence": true,
+    "autoSubmit": true
   },
   "questions": [
     {
