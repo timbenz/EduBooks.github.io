@@ -2,7 +2,7 @@
   "briefName": 	"cells",
   "title":      "Cells Quiz",
   "config": {
-    "randomizeQuestionSequence": false,
+    "randomizeQuestionSequence": true,
     "autoSubmit": true,
     "percentGreatJob": 60,
     "rightSide": "giphy"
