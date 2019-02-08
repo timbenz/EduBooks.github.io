@@ -1,0 +1,142 @@
+{
+  "briefName": 	"cells",
+  "title":      "Cells Quiz",
+  "config": {
+    "randomizeQuestionSequence": false,
+    "autoSubmit": false,
+    "percentGreatJob": 60,
+    "rightSide": "giphy"
+  },
+  "questions": [
+     {
+      "id":      0,
+      "question": "_____ energy is possessed by virtue of being in motion",
+      "pictureQuestion":  "images/ke.jpg",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Mechanical"},
+        { "id": "b", "answer": "Kinetic"},
+        { "id": "c", "answer": "Potential"},
+        { "id": "d", "answer": "Electric"}
+      ],
+      "correctAnswer": "Kinetic"
+    },
+    {
+      "id":      1,
+      "question": "_____ energy possessed by a body by virtue of its position relative to others",
+      "pictureQuestion":  "images/pe.jpg",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Mechanical"},
+        { "id": "b", "answer": "Kinetic"},
+        { "id": "c", "answer": "Potential"},
+        { "id": "d", "answer": "Electric"}
+      ],
+      "correctAnswer": "Potential"
+    },
+    {
+      "id":      2,
+      "question": "_____ is the quantity of motion of a moving body",
+      "pictureQuestion":  "images/momentum.webp",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Energy"},
+        { "id": "b", "answer": "Impulse"},
+        { "id": "c", "answer": "Force"},
+        { "id": "d", "answer": "Momentum"}
+      ],
+      "correctAnswer": "Momentum"
+    },
+    {
+      "id":      3,
+      "question": "A _____ is an interaction that causes an affected object to be pushed or pulled in a certain direction",
+      "pictureQuestion":  "images/force.jpg",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Energy"},
+        { "id": "b", "answer": "Impulse"},
+        { "id": "c", "answer": "Force"},
+        { "id": "d", "answer": "Momentum"}
+      ],
+      "correctAnswer": "Force"
+    },
+    {
+      "id":      4,
+      "question": "_____ is a measure of energy transfer that occurs when an object is moved over a distance by an external force",
+      "pictureQuestion":  "images/work.jpg",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Displacement"},
+        { "id": "b", "answer": "Work"},
+        { "id": "c", "answer": "Voltage"},
+        { "id": "d", "answer": "Strain"}
+      ],
+      "correctAnswer": "Work"
+    },
+    {
+      "id":      5,
+      "question": "_____ is the branch of mechanics concerned with the motion of objects without reference to the forces",
+      "pictureQuestion":  "images/kinematics.png",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Tension"},
+        { "id": "b", "answer": "Resistance"},
+        { "id": "c", "answer": "Kinematics"},
+        { "id": "d", "answer": "Heat"}
+      ],
+      "correctAnswer": "Kinematics"
+    },
+    {
+      "id":      6,
+      "question": "_____ is the force exerted on a body by gravity",
+      "pictureQuestion":  "images/weight.gif",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Mass"},
+        { "id": "b", "answer": "Gravity"},
+        { "id": "c", "answer": "Velocity"},
+        { "id": "d", "answer": "Weight"}
+      ],
+      "correctAnswer": "Weight"
+    },
+    {
+      "id":      7,
+      "question": "_____ is a measure of how much work or energy is conserved in a process",
+      "pictureQuestion":  "images/efficiency.png",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Impulse"},
+        { "id": "b", "answer": "Torque"},
+        { "id": "c", "answer": "Efficiency"},
+        { "id": "d", "answer": "buoyancy"}
+      ],
+      "correctAnswer": "Efficiency"
+    },
+	{
+      "id":      8,
+      "question": "_____ is the rate at which work is done (or energy is transferred",
+      "pictureQuestion":  "images/power.jpg",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Acceleration"},
+        { "id": "b", "answer": "Pressure"},
+        { "id": "c", "answer": "Power"},
+        { "id": "d", "answer": "Beat Frequency"}
+      ],
+      "correctAnswer": "Power"
+    },
+    {
+      "id":      9,
+      "question": "_____  is a force acting opposite to the relative motion of any object moving with respect to a surrounding fluid",
+      "pictureQuestion":  "images/drag.jpeg",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Latent Heat"},
+        { "id": "b", "answer": "Drag"},
+        { "id": "c", "answer": "Speed of Light"},
+        { "id": "d", "answer": "Molecular Speed"}
+      ],
+      "correctAnswer": "Drag"
+    }
+  ]
+}
