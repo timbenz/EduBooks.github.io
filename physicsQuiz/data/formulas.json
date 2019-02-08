@@ -75,16 +75,16 @@
     },
     {
       "id":      5,
-      "question": "_____ energy which a body possesses by virtue of being in motion",
-      "pictureQuestion":  "images/ke.jpg",
+      "question": "_____ is the branch of mechanics concerned with the motion of objects without reference to the forces",
+      "pictureQuestion":  "images/kinematics.png",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Potential"},
-        { "id": "b", "answer": "Kinetic"},
-        { "id": "c", "answer": "Mechanical"},
-        { "id": "d", "answer": "Electric"}
+        { "id": "a", "answer": "Kinematics"},
+        { "id": "b", "answer": "Tension"},
+        { "id": "c", "answer": "Resistance"},
+        { "id": "d", "answer": "Heat"}
       ],
-      "correctAnswer": "Kinetic"
+      "correctAnswer": "Kinematics"
     },
     {
       "id":      6,
