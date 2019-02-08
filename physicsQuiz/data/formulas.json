@@ -49,29 +49,29 @@
     },
     {
       "id":      3,
-      "question": "_____ energy which a body possesses by virtue of being in motion",
-      "pictureQuestion":  "images/mome.jpg",
+      "question": "A _____ is an interaction that causes an affected object to be pushed or pulled in a certain direction",
+      "pictureQuestion":  "images/force.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Potential"},
-        { "id": "b", "answer": "Kinetic"},
-        { "id": "c", "answer": "Mechanical"},
-        { "id": "d", "answer": "Electric"}
+        { "id": "a", "answer": "Energy"},
+        { "id": "b", "answer": "Impulse"},
+        { "id": "c", "answer": "Force"},
+        { "id": "d", "answer": "Momentum"}
       ],
-      "correctAnswer": "Kinetic"
+      "correctAnswer": "Force"
     },
     {
       "id":      4,
-      "question": "_____ energy which a body possesses by virtue of being in motion",
-      "pictureQuestion":  "images/ke.jpg",
+      "question": "_____ is a measure of energy transfer that occurs when an object is moved over a distance by an external force",
+      "pictureQuestion":  "images/work.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Potential"},
-        { "id": "b", "answer": "Kinetic"},
-        { "id": "c", "answer": "Mechanical"},
-        { "id": "d", "answer": "Electric"}
+        { "id": "a", "answer": "Displacement"},
+        { "id": "b", "answer": "Work"},
+        { "id": "c", "answer": "Voltage"},
+        { "id": "d", "answer": "Strain"}
       ],
-      "correctAnswer": "Kinetic"
+      "correctAnswer": "Work"
     },
     {
       "id":      5,
