@@ -101,42 +101,42 @@
     },
     {
       "id":      7,
-      "question": "_____ energy which a body possesses by virtue of being in motion",
-      "pictureQuestion":  "images/ke.jpg",
+      "question": "_____ is a measure of how much work or energy is conserved in a process",
+      "pictureQuestion":  "images/efficiency.png",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Potential"},
-        { "id": "b", "answer": "Kinetic"},
-        { "id": "c", "answer": "Mechanical"},
-        { "id": "d", "answer": "Electric"}
+        { "id": "a", "answer": "Impulse"},
+        { "id": "b", "answer": "Torque"},
+        { "id": "c", "answer": "Efficiency"},
+        { "id": "d", "answer": "buoyancy"}
       ],
-      "correctAnswer": "Kinetic"
+      "correctAnswer": "Efficiency"
     },
 	{
       "id":      8,
-      "question": "_____ energy which a body possesses by virtue of being in motion",
-      "pictureQuestion":  "images/ke.jpg",
+      "question": "_____ is the rate at which work is done (or energy is transferred)",
+      "pictureQuestion":  "images/power.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Potential"},
-        { "id": "b", "answer": "Kinetic"},
-        { "id": "c", "answer": "Mechanical"},
-        { "id": "d", "answer": "Electric"}
+        { "id": "a", "answer": "Acceleration"},
+        { "id": "b", "answer": "Pressure"},
+        { "id": "c", "answer": "Power"},
+        { "id": "d", "answer": "Beat Frequency"}
       ],
-      "correctAnswer": "Kinetic"
+      "correctAnswer": "Power"
     },
     {
       "id":      9,
-      "question": "_____ energy which a body possesses by virtue of being in motion",
-      "pictureQuestion":  "images/ke.jpg",
+      "question": "_____  is a force acting opposite to the relative motion of any object moving with respect to a surrounding fluid",
+      "pictureQuestion":  "images/drag.jpeg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Potential"},
-        { "id": "b", "answer": "Kinetic"},
-        { "id": "c", "answer": "Mechanical"},
-        { "id": "d", "answer": "Electric"}
+        { "id": "a", "answer": "Latent Heat"},
+        { "id": "b", "answer": "Drag"},
+        { "id": "c", "answer": "Speed of Light"},
+        { "id": "d", "answer": "Molecular Speed"}
       ],
-      "correctAnswer": "Kinetic"
+      "correctAnswer": "Drag"
     }
   ]
 }
