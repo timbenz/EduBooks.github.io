@@ -2,8 +2,8 @@
   "briefName": 	"formulas",
   "title":      "Physics Formulas Quiz",
   "config": {
-    "randomizeQuestionSequence": false,
-    "autoSubmit": false,
+    "randomizeQuestionSequence": true,
+    "autoSubmit": true,
     "percentGreatJob": 60,
     "rightSide": "giphy"
   },
