@@ -79,25 +79,25 @@
       "pictureQuestion":  "images/kinematics.png",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Kinematics"},
-        { "id": "b", "answer": "Tension"},
-        { "id": "c", "answer": "Resistance"},
+        { "id": "a", "answer": "Tension"},
+        { "id": "b", "answer": "Resistance"},
+        { "id": "c", "answer": "Kinematics"},
         { "id": "d", "answer": "Heat"}
       ],
       "correctAnswer": "Kinematics"
     },
     {
       "id":      6,
-      "question": "_____ energy which a body possesses by virtue of being in motion",
-      "pictureQuestion":  "images/ke.jpg",
+      "question": "_____ is the force exerted on a body by gravity",
+      "pictureQuestion":  "images/weight.gif",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Potential"},
-        { "id": "b", "answer": "Kinetic"},
-        { "id": "c", "answer": "Mechanical"},
-        { "id": "d", "answer": "Electric"}
+        { "id": "a", "answer": "Mass"},
+        { "id": "b", "answer": "Gravity"},
+        { "id": "c", "answer": "Velocity"},
+        { "id": "d", "answer": "Weight"}
       ],
-      "correctAnswer": "Kinetic"
+      "correctAnswer": "Weight"
     },
     {
       "id":      7,
