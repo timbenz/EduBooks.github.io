@@ -3,9 +3,8 @@
   "title":      "Cells Quiz",
   "config": {
     "randomizeQuestionSequence": true,
-    "autoSubmit": true,
-    "percentGreatJob": 60,
-    "rightSide": "giphy"
+    "autoSubmit": true
+	  
   },
   "questions": [
      {
