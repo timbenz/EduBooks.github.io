@@ -2,9 +2,15 @@
   "quizzes" : [
       {
         "briefName": 	"formulas",
-        "title":      "Physics Formulas Quiz",
+        "title":      "Formulas Quiz",
         "picture":	"images/formulas.jpg",
         "description": "Physics formulas and definitions general knowledge"
+      },
+    {
+        "briefName": 	"problems",
+        "title":      "Physics Problems Quiz",
+        "picture":	"images/problems.png",
+        "description": "Solve these Physics problems"
       }
    ]
 }
