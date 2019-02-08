@@ -2,9 +2,9 @@
   "quizzes" : [
       {
         "briefName": 	"cells",
-        "title":      "Cells General Knowledge Quiz",
+        "title":      "Cells Quiz",
         "picture":	"images/cells.jpg",
-        "description": "General knowledge cells"
+        "description": "General knowledge about cells"
       }
    ]
 }
