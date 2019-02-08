@@ -2,8 +2,8 @@
   "briefName": 	"players",
   "title":      "NFL Players",
   "config": {
-    "randomizeQuestionSequence": false,
-    "autoSubmit": false,
+    "randomizeQuestionSequence": true,
+    "autoSubmit": true,
     "percentGreatJob": 60,
 	"rightSide": "giphy"
   },
