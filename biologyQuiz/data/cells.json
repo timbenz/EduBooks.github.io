@@ -133,7 +133,7 @@
         { "id": "a", "answer": "1. All living things are made of cells"},
         { "id": "b", "answer": "2. Cells are the basic unit of structure and function"},
         { "id": "c", "answer": "3. Cells only come from other cells"},
-        { "id": "d", "answer": "4. All of the above are correct"}
+        { "id": "d", "answer": "4. All of the answers above are correct"}
       ],
       "correctAnswer": "All of the above are correct"
     }
