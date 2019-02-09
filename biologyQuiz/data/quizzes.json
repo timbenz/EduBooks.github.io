@@ -5,6 +5,12 @@
         "title":      "Cells Quiz",
         "picture":	"images/cells.jpg",
         "description": "General knowledge about cells"
+      },
+     {
+        "briefName": 	"dna",
+        "title":      "DNA Quiz",
+        "picture":	"images/dna.png",
+        "description": "General knowledge about DNA"
       }
    ]
 }
