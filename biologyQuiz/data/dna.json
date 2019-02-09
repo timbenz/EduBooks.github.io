@@ -10,7 +10,7 @@
      {
       "id":      0,
       "question": "What does DNA stand for?",
-      "pictureQuestion":  "images/dnawords.jpg",
+      "pictureQuestion":  "images/dnainwords.jpeg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
         { "id": "a", "answer": "Dioxiribonucleic Acid"},
