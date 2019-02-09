@@ -2,7 +2,7 @@
   "briefName": 	"dna",
   "title":      "DNA Quiz",
   "config": {
-    "randomizeQuestionSequence": true,
+    "randomizeQuestionSequence": false,
     "autoSubmit": true
 	  
   },
@@ -13,129 +13,128 @@
       "pictureQuestion":  "images/dnawords.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Eukaryote"},
-        { "id": "b", "answer": "Dioxiribonucleic Acid"},
-        { "id": "c", "answer": "Deoxyribonucleic Acid"},
-        { "id": "d", "answer": "Mitochondria"}
+        { "id": "a", "answer": "Dioxiribonucleic Acid"},
+        { "id": "b", "answer": "Deoxyribonucleic Acid"},
+        { "id": "c", "answer": "Deosiribonewcleic Acid"}
       ],
-      "correctAnswer": "Lysosomes"
+      "correctAnswer": "Deoxyribonucleic Acid"
     },
        {
       "id":      1,
-      "question": "What does DNA stand for?",
-      "pictureQuestion":  "images/mitochondria.png",
+      "question": "What does A in AGTC represent?",
+      "pictureQuestion":  "images/adenine.png",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Eukaryote"},
-        { "id": "b", "answer": "Golgi Apparatus"},
-        { "id": "c", "answer": "Lysosomes"},
-        { "id": "d", "answer": "Mitochondria"}
+        { "id": "a", "answer": "Adenosine"},
+        { "id": "b", "answer": "Adenine"},
+        { "id": "c", "answer": "Autopsy"},
+	{ "id": "d", "answer": "Acid"}
       ],
-      "correctAnswer": "Mitochondria"
+      "correctAnswer": "Adenine"
     },
     {
       "id":      2,
-      "question": "The organelle where ribosomes are made, synthesized and partially assembled",
-      "pictureQuestion":  "images/nucleolus.jpg",
+      "question": "What does G in AGTC represent?",
+      "pictureQuestion":  "images/guanine.png",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Vesicle"},
-        { "id": "b", "answer": "Golgi Apparatus"},
-        { "id": "c", "answer": "Nucleolus"},
-        { "id": "d", "answer": "Vacuole"}
+        { "id": "a", "answer": "Garine"},
+        { "id": "b", "answer": "Guapine"},
+        { "id": "c", "answer": "Guanine"},
+        { "id": "d", "answer": "Guanie"}
       ],
-      "correctAnswer": "Nucleolus"
+      "correctAnswer": "Guanine"
     },
      {
       "id":      3,
-      "question": "An organelle that functions in the synthesis of proteins",
-      "pictureQuestion":  "images/ribosomes.jpg",
+      "question": "What does T in AGTC represent?",
+      "pictureQuestion":  "images/thymine.png",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Vacuole"},
-        { "id": "b", "answer": "Golgi Apparatus"},
-        { "id": "c", "answer": "Nucleus"},
-        { "id": "d", "answer": "Ribosome"}
+        { "id": "a", "answer": "Thiamin"},
+        { "id": "b", "answer": "Thiamine"},
+        { "id": "c", "answer": "Thymus"},
+        { "id": "d", "answer": "Thymine"}
       ],
-      "correctAnswer": "Ribosome"
+      "correctAnswer": "Thymine"
     },
     {
       "id":      4,
-      "question": "An internal membrane system in which components of cell membrane and some proteins are constructed",
-      "pictureQuestion":  "images/er.jpg",
+      "question": "What does C in AGTC represent?",
+      "pictureQuestion":  "images/cytosine.png",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Nucleous"},
-        { "id": "b", "answer": "Vacuole"},
-        { "id": "c", "answer": "Vesicle"},
-        { "id": "d", "answer": "Endoplasmic Reticulum"}
+        { "id": "a", "answer": "Cytoplasm"},
+        { "id": "b", "answer": "Cytopine"},
+        { "id": "c", "answer": "Cytosine"},
+        { "id": "d", "answer": "Cytrophosphate"}
       ],
-      "correctAnswer": "Endoplasmic Reticulum"
+      "correctAnswer": "Cytosine"
     },
     {
       "id":      5,
-      "question": "A unicellular organism that lacks a nucleus and membrane bound organelles",
-      "pictureQuestion":  "images/prokaryote.png",
+      "question": "The sugar included in a nucleotide building block of RNA.",
+      "pictureQuestion":  "images/ribose.png",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Eukaryote"},
-        { "id": "b", "answer": "Prokaryote"},
-        { "id": "c", "answer": "Cytoplasm"},
-        { "id": "d", "answer": "Cytoskeleton"}
+        { "id": "a", "answer": "Uracil"},
+        { "id": "b", "answer": "Ribose"},
+        { "id": "c", "answer": "Nucleotide"},
+        { "id": "d", "answer": "Central Dogma"}
       ],
-      "correctAnswer": "Prokaryote"
+      "correctAnswer": "Ribose"
     },
     {
       "id":      6,
-      "question": "The region of the cell between the cell membrane and the nucleus",
-      "pictureQuestion":  "images/cytoplasm.jpg",
+      "question": "How many cells do your body produce everyday?",
+      "pictureQuestion":  "images/stemcells.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Cytoskeleton"},
-        { "id": "b", "answer": "Cytoplasm"},
-        { "id": "c", "answer": "Golgi Apparatus"},
-        { "id": "d", "answer": "Cell Wall"}
+        { "id": "a", "answer": "Thousands"},
+        { "id": "b", "answer": "Millions"},
+        { "id": "c", "answer": "Billions"},
+        { "id": "d", "answer": "Trillions"}
       ],
-      "correctAnswer": "Cytoplasm"
+      "correctAnswer": "Billions"
     },
     {
       "id":      7,
-      "question": "Whiplike tails found in one-celled organisms to aid in movement",
-      "pictureQuestion":  "images/flagellum.png",
+      "question": "DNA coiled tightly around proteins called histones",
+      "pictureQuestion":  "images/chromatin.png",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Rough ER"},
-        { "id": "b", "answer": "Smooth ER"},
-        { "id": "c", "answer": "Pili"},
-        { "id": "d", "answer": "Flagella"}
+        { "id": "a", "answer": "Chromosomes"},
+        { "id": "b", "answer": "Codon"},
+        { "id": "c", "answer": "Chromatin"},
+        { "id": "d", "answer": "Polypeptide"}
       ],
-      "correctAnswer": "Flagella"
+      "correctAnswer": "Chromatin"
     },
 	{
       "id":      8,
-      "question": "Stores water and nutrients for the cell; very large in plant cells",
-      "pictureQuestion":  "images/vacuole.jpg",
+      "question": "A segment of a DNA or RNA molecule which does not code for proteins and interrupts the sequence of genes.",
+      "pictureQuestion":  "images/introns.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Nuclear Envelope"},
-        { "id": "b", "answer": "Vesicle"},
-        { "id": "c", "answer": "Vacuole"},
-        { "id": "d", "answer": "Cell Membrane"}
+        { "id": "a", "answer": "Promoters"},
+        { "id": "b", "answer": "Exons"},
+        { "id": "c", "answer": "Anticodons"},
+        { "id": "d", "answer": "Introns"}
       ],
-      "correctAnswer": "Vacuole"
+      "correctAnswer": "Introns"
     },
     {
       "id":      9,
-      "question": "The cell theory says that...",
-      "pictureQuestion":  "images/celltheory.jpg",
+      "question": "The condition when the genome of an organism consists of two copies of each chromosome",
+      "pictureQuestion":  "images/diploid.png",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "1. All living things are made of cells"},
-        { "id": "b", "answer": "2. Cells are the basic unit of structure and function"},
-        { "id": "c", "answer": "3. Cells only come from other cells"},
-        { "id": "d", "answer": "4. All of the answers above are correct"}
+        { "id": "a", "answer": "Double Helix"},
+        { "id": "b", "answer": "Diploid"},
+        { "id": "c", "answer": "Eugenic"},
+        { "id": "d", "answer": "Homolog"}
       ],
-      "correctAnswer": "All of the above are correct"
+      "correctAnswer": "Diploid"
     }
   ]
 }
