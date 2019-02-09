@@ -1,10 +1,10 @@
 {
   "quizzes" : [
       {
-        "briefName": 	"presidents",
-        "title":      "American Presidents",
-        "picture":	"images/George_Washington.jpg",
-        "description": "General knowledge about American presidents"
+        "briefName": 	"capitals",
+        "title":      "Americas Capitals Quiz",
+        "picture":	"images/whitehouse.jpg",
+        "description": "Do you know all the capitals in North and South America"
       }
    ]
 }
