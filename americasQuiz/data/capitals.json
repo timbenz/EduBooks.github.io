@@ -1,0 +1,100 @@
+{
+  "briefName": 	"capitals",
+  "title":      "Americas Capitals Quiz",
+  "config": {
+    "randomizeQuestionSequence": true,
+    "autoSubmit": true
+  },
+  "questions": [
+    {
+      "id":      0,
+      "question": "Position: SP / Team: Dodgers",
+      "pictureQuestion":  "images/kershaw.png",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Clayton Kershaw"
+      ]
+	    },
+     {
+      "id":      1,
+      "question": "Position: SP / Team: Dodgers",
+      "pictureQuestion":  "images/kershaw.png",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Clayton Kershaw"
+      ]
+	    },
+     {
+      "id":      2,
+      "question": "Position: SP / Team: Dodgers",
+      "pictureQuestion":  "images/kershaw.png",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Clayton Kershaw"
+      ]
+	    },
+     {
+      "id":      3,
+      "question": "Position: SP / Team: Dodgers",
+      "pictureQuestion":  "images/kershaw.png",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Clayton Kershaw"
+      ]
+	    },
+     {
+      "id":      4,
+      "question": "Position: SP / Team: Dodgers",
+      "pictureQuestion":  "images/kershaw.png",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Clayton Kershaw"
+      ]
+	    },
+     {
+      "id":      5,
+      "question": "Position: SP / Team: Dodgers",
+      "pictureQuestion":  "images/kershaw.png",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Clayton Kershaw"
+      ]
+	    },
+     {
+      "id":      6,
+      "question": "Position: SP / Team: Dodgers",
+      "pictureQuestion":  "images/kershaw.png",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Clayton Kershaw"
+      ]
+	    },
+     {
+      "id":      7,
+      "question": "Position: SP / Team: Dodgers",
+      "pictureQuestion":  "images/kershaw.png",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Clayton Kershaw"
+      ]
+	    },
+	 {
+      "id":      8,
+      "question": "Position: SP / Team: Dodgers",
+      "pictureQuestion":  "images/kershaw.png",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Clayton Kershaw"
+      ]
+	    },
+     {
+      "id":      9,
+      "question": "Position: SP / Team: Dodgers",
+      "pictureQuestion":  "images/kershaw.png",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Clayton Kershaw"
+      ]
+	    }
+  ]
+}
