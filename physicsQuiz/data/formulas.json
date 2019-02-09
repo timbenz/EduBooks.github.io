@@ -106,7 +106,7 @@
         { "id": "a", "answer": "Impulse"},
         { "id": "b", "answer": "Torque"},
         { "id": "c", "answer": "Efficiency"},
-        { "id": "d", "answer": "buoyancy"}
+        { "id": "d", "answer": "Buoyancy"}
       ],
       "correctAnswer": "Efficiency"
     },
