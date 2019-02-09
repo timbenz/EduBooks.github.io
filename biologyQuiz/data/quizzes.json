@@ -8,9 +8,9 @@
       },
      {
         "briefName": 	"dna",
-        "title":      "DNA Quiz",
+        "title":      "DNA and RNA Quiz",
         "picture":	"images/dna.png",
-        "description": "General knowledge about DNA"
+        "description": "General knowledge about DNA/RNA"
       }
    ]
 }
