@@ -1,6 +1,6 @@
 {
   "briefName": 	"dna",
-  "title":      "DNA Quiz",
+  "title":      "DNA and RNA Quiz",
   "config": {
     "randomizeQuestionSequence": false,
     "autoSubmit": true
@@ -86,7 +86,7 @@
     },
     {
       "id":      6,
-      "question": "How many cells do your body produce everyday?",
+      "question": "How many cells does your body produce everyday?",
       "pictureQuestion":  "images/stemcells.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
