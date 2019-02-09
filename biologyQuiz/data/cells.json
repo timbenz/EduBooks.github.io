@@ -23,7 +23,7 @@
        {
       "id":      1,
       "question": "An organelle in which the biochemical processes of respiration and energy production occur",
-      "pictureQuestion":  "images/mitochonodria.png",
+      "pictureQuestion":  "images/mitochondria.png",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
         { "id": "a", "answer": "Eukaryote"},
@@ -31,7 +31,7 @@
         { "id": "c", "answer": "Lysosomes"},
         { "id": "d", "answer": "Mitochondria"}
       ],
-      "correctAnswer": "Mitoochondria"
+      "correctAnswer": "Mitochondria"
     },
     {
       "id":      2,
