@@ -75,28 +75,28 @@
     {
       "id":      5,
       "question": "A unicellular organism that lacks a nucleus and membrane bound organelles",
-      "pictureQuestion":  "images/kinematics.png",
+      "pictureQuestion":  "images/prokaryote.png",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
         { "id": "a", "answer": "Eukaryote"},
         { "id": "b", "answer": "Prokaryote"},
-        { "id": "c", "answer": "Kinematics"},
-        { "id": "d", "answer": "Heat"}
+        { "id": "c", "answer": "Cytoplasm"},
+        { "id": "d", "answer": "Cytoskeleton"}
       ],
-      "correctAnswer": "Kinematics"
+      "correctAnswer": "Prokaryote"
     },
     {
       "id":      6,
-      "question": "_____ is the force exerted on a body by gravity",
-      "pictureQuestion":  "images/weight.gif",
+      "question": "The region of the cell between the cell membrane and the nucleus",
+      "pictureQuestion":  "images/cytoplasm.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Mass"},
-        { "id": "b", "answer": "Gravity"},
-        { "id": "c", "answer": "Velocity"},
-        { "id": "d", "answer": "Weight"}
+        { "id": "a", "answer": "Cytoskeleton"},
+        { "id": "b", "answer": "Cytoplasm"},
+        { "id": "c", "answer": "Golgi Apparatus"},
+        { "id": "d", "answer": "Cell Wall"}
       ],
-      "correctAnswer": "Weight"
+      "correctAnswer": "Cytoplasm"
     },
     {
       "id":      7,
