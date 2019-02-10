@@ -8,92 +8,94 @@
   "questions": [
     {
       "id":      0,
-      "question": "Position: SP / Team: Dodgers",
-      "pictureQuestion":  "images/kershaw.png",
+      "question": "What is the capital of Paraguay?",
+      "pictureQuestion":  "images/asuncion.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Clayton Kershaw"
+        "Asuncion",
+	"Asunción"
       ]
 	    },
      {
       "id":      1,
-      "question": "Position: SP / Team: Dodgers",
-      "pictureQuestion":  "images/kershaw.png",
+      "question": "What is the capital of Costa Rica?",
+      "pictureQuestion":  "images/sanjose.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Clayton Kershaw"
+        "San José",
+	"San Jose"
       ]
 	    },
      {
       "id":      2,
-      "question": "Position: SP / Team: Dodgers",
-      "pictureQuestion":  "images/kershaw.png",
+      "question": "What is the capital of Venezuela?",
+      "pictureQuestion":  "images/caracas.jpeg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Clayton Kershaw"
+        "Caracas"
       ]
 	    },
      {
       "id":      3,
-      "question": "Position: SP / Team: Dodgers",
-      "pictureQuestion":  "images/kershaw.png",
+      "question": "What is the capital of Honduras?",
+      "pictureQuestion":  "images/tegucigalpa.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Clayton Kershaw"
+        "Tegucigalpa"
       ]
 	    },
      {
       "id":      4,
-      "question": "Position: SP / Team: Dodgers",
-      "pictureQuestion":  "images/kershaw.png",
+      "question": "What is the capital of Uruguay?",
+      "pictureQuestion":  "images/montevideo.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Clayton Kershaw"
+        "Montevideo"
       ]
 	    },
      {
       "id":      5,
-      "question": "Position: SP / Team: Dodgers",
-      "pictureQuestion":  "images/kershaw.png",
+      "question": "What is the capital of Suriname?",
+      "pictureQuestion":  "images/paramaribo.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Clayton Kershaw"
+        "Paramaribo"
       ]
 	    },
      {
       "id":      6,
-      "question": "Position: SP / Team: Dodgers",
-      "pictureQuestion":  "images/kershaw.png",
+      "question": "What is the capital of Nicaragua?",
+      "pictureQuestion":  "images/managua.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Clayton Kershaw"
+        "Managua"
       ]
 	    },
      {
       "id":      7,
-      "question": "Position: SP / Team: Dodgers",
-      "pictureQuestion":  "images/kershaw.png",
+      "question": "What is the capital of Cuba?",
+      "pictureQuestion":  "images/havana.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Clayton Kershaw"
+        "Havana"
       ]
 	    },
 	 {
       "id":      8,
-      "question": "Position: SP / Team: Dodgers",
-      "pictureQuestion":  "images/kershaw.png",
+      "question": "What is the capital of Jamaica?",
+      "pictureQuestion":  "images/kingston.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Clayton Kershaw"
+        "Kingston"
       ]
 	    },
      {
       "id":      9,
-      "question": "Position: SP / Team: Dodgers",
-      "pictureQuestion":  "images/kershaw.png",
+      "question": "What is the capital of Guyana?",
+      "pictureQuestion":  "images/georgetown.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Clayton Kershaw"
+        "Georgetown"
       ]
 	    }
   ]
