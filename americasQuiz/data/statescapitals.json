@@ -8,94 +8,92 @@
   "questions": [
     {
       "id":      0,
-      "question": "What is the capital of Paraguay? (Make sure your answer slot is empty)",
-      "pictureQuestion":  "images/asuncion.jpg",
+      "question": "What is the capital of Delaware? (Make sure your answer slot is empty)",
+      "pictureQuestion":  "images/dover.jpeg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Asuncion",
-	"Asunción"
+        "Dover"
       ]
 	    },
      {
       "id":      1,
-      "question": "What is the capital of Costa Rica? (Make sure your answer slot is empty)",
-      "pictureQuestion":  "images/sanjose.jpg",
+      "question": "What is the capital of North Dakota? (Make sure your answer slot is empty)",
+      "pictureQuestion":  "images/bismarck.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "San José",
-	"San Jose"
+        "Bismarck"
       ]
 	    },
      {
       "id":      2,
-      "question": "What is the capital of Venezuela? (Make sure your answer slot is empty)",
-      "pictureQuestion":  "images/caracas.jpeg",
+      "question": "What is the capital of Pennsylvania? (Make sure your answer slot is empty)",
+      "pictureQuestion":  "images/harrisburg.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Caracas"
+       "Harrisburg"
       ]
 	    },
      {
       "id":      3,
-      "question": "What is the capital of Honduras? (Make sure your answer slot is empty)",
-      "pictureQuestion":  "images/tegucigalpa.jpg",
+      "question": "What is the capital of Oregon? (Make sure your answer slot is empty)",
+      "pictureQuestion":  "images/salem.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Tegucigalpa"
+        "Salem"
       ]
 	    },
      {
       "id":      4,
-      "question": "What is the capital of Uruguay? (Make sure your answer slot is empty)",
-      "pictureQuestion":  "images/montevideo.jpg",
+      "question": "What is the capital of Vermont? (Make sure your answer slot is empty)",
+      "pictureQuestion":  "images/montpelier.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Montevideo"
+        "Montpelier"
       ]
 	    },
      {
       "id":      5,
-      "question": "What is the capital of Suriname? (Make sure your answer slot is empty)",
-      "pictureQuestion":  "images/paramaribo.jpg",
+      "question": "What is the capital of Maryland? (Make sure your answer slot is empty)",
+      "pictureQuestion":  "images/annapolis.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Paramaribo"
+        "Annapolis"
       ]
 	    },
      {
       "id":      6,
-      "question": "What is the capital of Nicaragua? (Make sure your answer slot is empty)",
-      "pictureQuestion":  "images/managua.jpg",
+      "question": "What is the capital of Michigan? (Make sure your answer slot is empty)",
+      "pictureQuestion":  "images/madisono.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Managua"
+        "Madison"
       ]
 	    },
      {
       "id":      7,
-      "question": "What is the capital of Cuba? (Make sure your answer slot is empty)",
-      "pictureQuestion":  "images/havana.jpg",
+      "question": "What is the capital of Rhode Island? (Make sure your answer slot is empty)",
+      "pictureQuestion":  "images/providence.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Havana"
+        "Providence"
       ]
 	    },
 	 {
       "id":      8,
-      "question": "What is the capital of Jamaica? (Make sure your answer slot is empty)",
-      "pictureQuestion":  "images/kingston.jpg",
+      "question": "What is the capital of New Jersey? (Make sure your answer slot is empty)",
+      "pictureQuestion":  "images/trenton.jpeg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Kingston"
+        "Trenton"
       ]
 	    },
      {
       "id":      9,
-      "question": "What is the capital of Guyana? (Make sure your answer slot is empty)",
-      "pictureQuestion":  "images/georgetown.jpg",
+      "question": "What is the capital of New Hampshire? (Make sure your answer slot is empty)",
+      "pictureQuestion":  "images/concord.jpg",
       "type":     "pictureQuestionShortAnswer",
       "correctAnswerArray": [
-        "Georgetown"
+        "Concord"
       ]
 	    }
   ]
