@@ -1,0 +1,102 @@
+{
+  "briefName": 	"capitals",
+  "title":      "Capitals of Europe Quiz",
+  "config": {
+    "randomizeQuestionSequence": true,
+    "autoSubmit": true
+  },
+  "questions": [
+    {
+      "id":      0,
+      "question": "What is the capital of Paraguay? (Make sure your answer slot is empty)",
+      "pictureQuestion":  "images/asuncion.jpg",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Asuncion",
+	"Asunción"
+      ]
+	    },
+     {
+      "id":      1,
+      "question": "What is the capital of Costa Rica? (Make sure your answer slot is empty)",
+      "pictureQuestion":  "images/sanjose.jpg",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "San José",
+	"San Jose"
+      ]
+	    },
+     {
+      "id":      2,
+      "question": "What is the capital of Venezuela? (Make sure your answer slot is empty)",
+      "pictureQuestion":  "images/caracas.jpeg",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Caracas"
+      ]
+	    },
+     {
+      "id":      3,
+      "question": "What is the capital of Honduras? (Make sure your answer slot is empty)",
+      "pictureQuestion":  "images/tegucigalpa.jpg",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Tegucigalpa"
+      ]
+	    },
+     {
+      "id":      4,
+      "question": "What is the capital of Uruguay? (Make sure your answer slot is empty)",
+      "pictureQuestion":  "images/montevideo.jpg",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Montevideo"
+      ]
+	    },
+     {
+      "id":      5,
+      "question": "What is the capital of Suriname? (Make sure your answer slot is empty)",
+      "pictureQuestion":  "images/paramaribo.jpg",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Paramaribo"
+      ]
+	    },
+     {
+      "id":      6,
+      "question": "What is the capital of Nicaragua? (Make sure your answer slot is empty)",
+      "pictureQuestion":  "images/managua.jpg",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Managua"
+      ]
+	    },
+     {
+      "id":      7,
+      "question": "What is the capital of Cuba? (Make sure your answer slot is empty)",
+      "pictureQuestion":  "images/havana.jpg",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Havana"
+      ]
+	    },
+	 {
+      "id":      8,
+      "question": "What is the capital of Jamaica? (Make sure your answer slot is empty)",
+      "pictureQuestion":  "images/kingston.jpg",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Kingston"
+      ]
+	    },
+     {
+      "id":      9,
+      "question": "What is the capital of Guyana? (Make sure your answer slot is empty)",
+      "pictureQuestion":  "images/georgetown.jpg",
+      "type":     "pictureQuestionShortAnswer",
+      "correctAnswerArray": [
+        "Georgetown"
+      ]
+	    }
+  ]
+}
