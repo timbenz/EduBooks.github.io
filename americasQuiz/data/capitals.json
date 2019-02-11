@@ -1,6 +1,6 @@
 {
   "briefName": 	"capitals",
-  "title":      "Americas Capitals Quiz",
+  "title":      "Capitals of the Americas Quiz",
   "config": {
     "randomizeQuestionSequence": true,
     "autoSubmit": true
