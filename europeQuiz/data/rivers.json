@@ -1,7 +1,13 @@
-
-
 {
-      "id":      9,
+  "briefName": 	"capitals",
+  "title":      "Capitals of Europe Quiz",
+  "config": {
+    "randomizeQuestionSequence": true,
+    "autoSubmit": true
+  },
+  "questions": [
+    {
+      "id":      0,
       "question": "Position: CB / State of Birth: Florida",
       "pictureQuestion":  "images/rhodes.jpg",
       "type":     "pictureQuestionMultipleChoice",
@@ -13,3 +19,124 @@
       ],
       "correctAnswer": "Xavier Rhodes"
       },
+    {
+      "id":      1,
+      "question": "Position: CB / State of Birth: Florida",
+      "pictureQuestion":  "images/rhodes.jpg",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Matthew Stafford"},
+        { "id": "b", "answer": "A.J. Bouye"},
+        { "id": "c", "answer": "Jalen Ramsey"},
+        { "id": "d", "answer": "Xavier Rhodes"}
+      ],
+      "correctAnswer": "Xavier Rhodes"
+      },
+     {
+      "id":      2,
+      "question": "Position: CB / State of Birth: Florida",
+      "pictureQuestion":  "images/rhodes.jpg",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Matthew Stafford"},
+        { "id": "b", "answer": "A.J. Bouye"},
+        { "id": "c", "answer": "Jalen Ramsey"},
+        { "id": "d", "answer": "Xavier Rhodes"}
+      ],
+      "correctAnswer": "Xavier Rhodes"
+      },
+     {
+      "id":      3,
+      "question": "Position: CB / State of Birth: Florida",
+      "pictureQuestion":  "images/rhodes.jpg",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Matthew Stafford"},
+        { "id": "b", "answer": "A.J. Bouye"},
+        { "id": "c", "answer": "Jalen Ramsey"},
+        { "id": "d", "answer": "Xavier Rhodes"}
+      ],
+      "correctAnswer": "Xavier Rhodes"
+      },
+     {
+      "id":      4,
+      "question": "Position: CB / State of Birth: Florida",
+      "pictureQuestion":  "images/rhodes.jpg",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Matthew Stafford"},
+        { "id": "b", "answer": "A.J. Bouye"},
+        { "id": "c", "answer": "Jalen Ramsey"},
+        { "id": "d", "answer": "Xavier Rhodes"}
+      ],
+      "correctAnswer": "Xavier Rhodes"
+      },
+     {
+      "id":      5,
+      "question": "Position: CB / State of Birth: Florida",
+      "pictureQuestion":  "images/rhodes.jpg",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Matthew Stafford"},
+        { "id": "b", "answer": "A.J. Bouye"},
+        { "id": "c", "answer": "Jalen Ramsey"},
+        { "id": "d", "answer": "Xavier Rhodes"}
+      ],
+      "correctAnswer": "Xavier Rhodes"
+      },
+     {
+      "id":      6,
+      "question": "Position: CB / State of Birth: Florida",
+      "pictureQuestion":  "images/rhodes.jpg",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Matthew Stafford"},
+        { "id": "b", "answer": "A.J. Bouye"},
+        { "id": "c", "answer": "Jalen Ramsey"},
+        { "id": "d", "answer": "Xavier Rhodes"}
+      ],
+      "correctAnswer": "Xavier Rhodes"
+      },
+     {
+      "id":      7,
+      "question": "Position: CB / State of Birth: Florida",
+      "pictureQuestion":  "images/rhodes.jpg",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Matthew Stafford"},
+        { "id": "b", "answer": "A.J. Bouye"},
+        { "id": "c", "answer": "Jalen Ramsey"},
+        { "id": "d", "answer": "Xavier Rhodes"}
+      ],
+      "correctAnswer": "Xavier Rhodes"
+      },
+	 {
+      "id":      8,
+      "question": "Position: CB / State of Birth: Florida",
+      "pictureQuestion":  "images/rhodes.jpg",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Matthew Stafford"},
+        { "id": "b", "answer": "A.J. Bouye"},
+        { "id": "c", "answer": "Jalen Ramsey"},
+        { "id": "d", "answer": "Xavier Rhodes"}
+      ],
+      "correctAnswer": "Xavier Rhodes"
+      },
+    {
+      "id":      9,
+      "question": "Position: CB / State of Birth: Florida",
+      "pictureQuestion":  "images/rhodes.jpg",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Matthew Stafford"},
+        { "id": "b", "answer": "A.J. Bouye"},
+        { "id": "c", "answer": "Jalen Ramsey"},
+        { "id": "d", "answer": "Xavier Rhodes"}
+      ],
+      "correctAnswer": "Xavier Rhodes"
+      }
+  ]
+}
+
+
