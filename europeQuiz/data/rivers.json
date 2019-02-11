@@ -1,0 +1,15 @@
+
+
+{
+      "id":      9,
+      "question": "Position: CB / State of Birth: Florida",
+      "pictureQuestion":  "images/rhodes.jpg",
+      "type":     "pictureQuestionMultipleChoice",
+      "options": [
+        { "id": "a", "answer": "Matthew Stafford"},
+        { "id": "b", "answer": "A.J. Bouye"},
+        { "id": "c", "answer": "Jalen Ramsey"},
+        { "id": "d", "answer": "Xavier Rhodes"}
+      ],
+      "correctAnswer": "Xavier Rhodes"
+      },
