@@ -4,13 +4,13 @@
         "briefName": 	"capitals",
         "title":      "Capitals of Europe Quiz",
         "picture":	"images/eiffeltower.jpg",
-        "description": "Do you all the capitals of Europe?"
+        "description": "Do you know the capitals of Europe?"
       },
     {
         "briefName": 	"rivers",
         "title":      "Rivers of Europe Quiz",
         "picture":	"images/river.jpg",
-        "description": "Do you the rivers of Europe?"
+        "description": "Do you know the rivers of Europe?"
       }
    ]
 }
