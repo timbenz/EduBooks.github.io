@@ -1,6 +1,6 @@
 {
-  "briefName": 	"capitals",
-  "title":      "Capitals of Europe Quiz",
+  "briefName": 	"rivers",
+  "title":      "Rivers of Europe Quiz",
   "config": {
     "randomizeQuestionSequence": true,
     "autoSubmit": true
@@ -17,7 +17,7 @@
         { "id": "c", "answer": "Jalen Ramsey"},
         { "id": "d", "answer": "Xavier Rhodes"}
       ],
-      "correctAnswer": "Xavier Rhodes"
+      "correctAnswer": "Loire"
       },
     {
       "id":      1,
