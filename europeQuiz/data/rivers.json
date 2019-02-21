@@ -40,7 +40,7 @@
       "options": [
         { "id": "a", "answer": "Oder"},
         { "id": "b", "answer": "Rhine"},
-        { "id": "c", "answer": "Volga},
+        { "id": "c", "answer": "Volga"},
         { "id": "d", "answer": "Tagus"}
       ],
       "correctAnswer": "Volga"
