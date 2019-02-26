@@ -51,7 +51,7 @@
       "pictureQuestion":  "images/rhodes.jpg",
       "type":     "pictureQuestionMultipleChoice",
       "options": [
-        { "id": "a", "answer": "Don},
+        { "id": "a", "answer": "Don"},
         { "id": "b", "answer": "Po"},
         { "id": "c", "answer": "Ro"},
         { "id": "d", "answer": "Rhine"}
@@ -82,7 +82,7 @@
         { "id": "c", "answer": "Oder"},
         { "id": "d", "answer": "Dnieper"}
       ],
-      "correctAnswer": "Xavier Rhodes"
+      "correctAnswer": "Dnieper"
       },
      {
       "id":      6,
