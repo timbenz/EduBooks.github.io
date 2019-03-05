@@ -1,0 +1,43 @@
+-Function that takes hand cards and dealer (you or opponent) as inputs, picks hand of highest expected value, and outputs
+the 4 cards that compose hand of highest value (or the 2 discards which would leave the optimized hand)
+
+
+A1. uses two (sub?)functions to evaluate 
+     1. Expected hand values
+     2. Expected crib value,
+ then adds two values 
+
+   Expected Hand Values 
+B2: Function that takes output of below two functions and evaluates expected score of each possible hand 
+
+B2.A: Function that outputs possible cuts (defines possible cuts as all cards in deck except those in your hand)
+
+B2.B: Function that evaluates points earned by all possible 5-card hands
+ 
+
+
+C1: 5-Card hand point evaluation function (690 inputs, 15 outputs)
+Takes hands of 5 from G1.A, runs its subfunctions on each hand, and sums the outputs of those subfunctions that correspond to
+a 4-card group, then divides each sum by 46, creates a new variable defined as the expected score of that 4-card group, and
+outputs those 15 variables to master function (or whichever one ends up adding the expected score from the hand and crib)
+     Subfuctions:
+15-counter
+Pair counter
+Run counter
+Flush counter
+Nobs counter
+Point assigner (takes an input from each counter, multiplies each by corresponding number of points, sums each result, outputs sum). 
+
+
+G1: Hand-grouping function (6 inputs, 15 outputs)
+Groups 6 hand cards into 15 groups of 4 cards, and puts all 15 groups in a 15 x 4 array, then sends array as output to G1.A
+
+
+
+G1.A (15 inputs, 690 outputs)
+Pairs each of 15 groups of 4 cards with each of 46 possible cut cards (by running B2.B) to make 690 possible hands of 5,
+each defined as offspring of its parent hand of 4, outputs these hands to C1
+
+
+Make for loop that counts hand value of each column in the 15 x 4 array for a pairing with each card in the cut array.
+At the end of each iteration of the loop it will add a number to the 1 x 15 array in the corresponding column. 
